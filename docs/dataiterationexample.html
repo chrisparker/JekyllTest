@@ -1,0 +1,19 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Data Iteration</title>
+  </head>
+  <body>
+  <ul>
+	  {% for item in site.data.representations %}
+		<a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+		  {{ item.name }}
+		</a><br />
+	  {% endfor %}
+  </ul>  
+  </body>
+</html>

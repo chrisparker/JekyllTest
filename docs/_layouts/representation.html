@@ -1,9 +1,9 @@
 <!doctype html>
 <html>
 <div>
-<h1>This is a representation of group: {{ name }}</h1>
+<h1>This is a representation of group: {{ page.name }}</h1>
 <br />
-Order: {{ order }}<br />
-{% if otherproperty != "" %}Other Property: {{ otherproperty }} <br/>{% endif %}
+Order: {{ page.order }}<br />
+{% if otherproperty != "" %}Other Property: {{ page.otherproperty }} <br/>{% endif %}
 </div>
 </html>
