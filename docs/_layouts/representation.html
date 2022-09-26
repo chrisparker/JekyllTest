@@ -1,5 +1,9 @@
+<!doctype html>
+<html>
 <div>
 <h1>This is a representation of group: {{ name }}</h1>
 <br />
 Order: {{ order }}<br />
+{% if otherproperty != "" %}Other Property: {{ otherproperty }} <br/>{% endif %}
 </div>
+</html>
