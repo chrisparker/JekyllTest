@@ -1,1 +1,1 @@
-ls -1R /spor | sed -e 's/^/ - groupName :/' > "/docs/_data/spor-listing.yml
+ls -1R ./spor | sed -e 's/^/ - groupName :/' > "./docs/_data/spor-listing.yml
