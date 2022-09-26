@@ -12,3 +12,8 @@ See https://chrisparker.github.io/JekyllTest/layoutexample.html for the final pa
 
 2. Using includes. This enables you to "include" another page, allowing static content in some places, and a call out to another file in the middle of the HTML
 
+See https://chrisparker.github.io/JekyllTest/includeexample.html for the final page
+
+3. Using data iteration. This enables you to have a single yml file describing the data, and then iterate over it within a page to create the items you want.
+
+See https://chrisparker.github.io/JekyllTest/dataiterationexample.html for the final page
