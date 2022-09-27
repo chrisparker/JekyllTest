@@ -54,6 +54,6 @@ This builds on the data include above by using a github action to run this shell
 https://github.com/chrisparker/JekyllTest/blob/main/.github/scripts/create-file.sh
 
 As a result, if you were logged into GitHub and added a file to this directory:
-https://github.com/chrisparker/JekyllTest/tree/main/docs/spor/Co1/mtx
+https://github.com/chrisparker/JekyllTest/tree/main/brook/spor/Co1/mtx
 
 The link would automatically appear as an extra line on the data generation page after the build was done (takes about 45 seconds).
