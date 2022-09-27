@@ -1,5 +1,19 @@
 ---
-layout: representation
-groupName: Layout test group name
-groupOrder: Some large number
 ---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Data Iteration</title>
+  </head>
+  <body>
+  <ul>
+	  {% for item in site.data.spor-listing %}
+		<a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+		  {{ item.groupName }}
+		</a><br />
+	  {% endfor %}
+  </ul>  
+  </body>
+</html>
