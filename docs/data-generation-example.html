@@ -10,8 +10,8 @@
   <body>
   <ul>
 	  {% for item in site.data.spor-listing %}
-		<a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
-		  {{ item.groupName }}
+		<a href="{{ item.fileName }}">
+		  {{ item.fileName }}
 		</a><br />
 	  {% endfor %}
   </ul>  
