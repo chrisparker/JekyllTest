@@ -6,9 +6,7 @@ Deployed site at: https://chrisparker.github.io/JekyllTest/
 
 ## Examples so far:
 
-### 1 Using _layouts. 
-
-This enables you to specify a layout in the `_layouts` directory using tags, and then just have a data file in the right place with the variables. When the data is compiled, the html to generated from the templates. 
+### 1. Using _layouts. 
 
 See https://chrisparker.github.io/JekyllTest/layoutexample.html
 
@@ -17,11 +15,11 @@ This page is generated from two files:
 https://github.com/chrisparker/JekyllTest/blob/main/docs/_layouts/representation.html
 https://github.com/chrisparker/JekyllTest/blob/main/docs/layoutexample.html
 
-The point being that you put your template in one file, and just the variables in the other, and this allows you to add new pages by just putting a data file in the right place. Note the 'if' statement that allows you to easily extend the template with new html/properties when you find them without updating all the data.
+The point being that you put your template in one file, and the variables in the other, and this allows you to add new pages by putting a reasonably minimal data file in the right place. Note the 'if' statement that allows you to easily extend the template with new html/properties when you find them without updating all the data.
 
 ### 2. Using includes. 
 
-This enables you to "include" another page, allowing static content in some places, and a call out to another file in the middle of the HTML
+This enables you to "include" another page, allowing static content as the main page, calling out to include another file in the middle of the HTML.
 
 See https://chrisparker.github.io/JekyllTest/includeexample.html
 
