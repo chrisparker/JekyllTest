@@ -10,9 +10,9 @@
   <body>
   <ul>
 	  {% for item in site.data.spor-listing %}
-		<a href="{{ item.fileName }}">
+		<li><a href="{{ item.fileName }}">
 		  {{ item.fileName }}
-		</a><br />
+		</a></li>
 	  {% endfor %}
   </ul>  
   </body>
