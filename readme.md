@@ -45,7 +45,7 @@ The point being that you can construct a row in an html grid from a set of data 
 
 ### 4. Using data generation. 
 
-A github action generates the yml data file from the files in a directory, and those are input into a template to create the html from an iterated include.
+A github action generates the yml data file from the files in a directory, and then the page iterates over that data to generate the html.
 
 See https://chrisparker.github.io/JekyllTest/data-generation-example.html
 
