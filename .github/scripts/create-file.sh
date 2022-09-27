@@ -1,3 +1,3 @@
 cd docs
-find ./spor | sed -e 's/^/ - fileName: /' > ../docs/_data/spor-listing.yml
+find ./brook/spor | sed -e 's/^/ - fileName: /' > ../docs/_data/spor-listing.yml
 cd ..
