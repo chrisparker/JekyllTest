@@ -32,6 +32,9 @@ jobs:
       - name: Run build script
         run: ./.github/scripts/create-file.sh
         shell: bash
+      - name: Run python test script
+        run: ./.github/scripts/python-test.py
+        shell: python
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
