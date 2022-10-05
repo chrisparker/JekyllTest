@@ -30,12 +30,12 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Run build script
-        run: ./.github/scripts/create-file.sh
+        run: ./.github/scripts/run-find.sh
         shell: bash
-      - name: Run python test script
+      - name: Produce Jekyll YML with Python
         run: |
           import os 
-          os.system('python .github/scripts/python-test.py')
+          os.system('python .github/scripts/produce-jekyll-yml.py')
         shell: python
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1

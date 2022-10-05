@@ -8,13 +8,15 @@
     <title>Home</title>
   </head>
   <body>
+   <h3> Welcome to the main test page! Here are some groups:</h3>
+
   <ul>
-   <li><a href="layoutexample.html">A layout example for a representation</a>    </li>
-    <li><a href="includeexample.html">A includes example for a representation</a>     </li>
-    <li><a href="dataiterationexample.html">A data iteration example for a representation</a>     </li>
-    <li><a href="data-generation-example.html">A data generation example for a representation</a>     </li>
-	
-	
+	  {% for item in site.data.groups %}
+		<li><a href="/groups/ {{ item.groupName }}">
+		  {{ item.groupName }}
+		</a></li>
+	  {% endfor %}
   </ul>  
+
   </body>
 </html>

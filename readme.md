@@ -4,56 +4,10 @@ A test site for showing the features of jekyll using a GitHub Pages site.
 
 Deployed site at: https://chrisparker.github.io/JekyllTest/
 
-## Examples so far:
+## So far, this
 
-### 1. Using _layouts. 
+- The build process is controlled by a github actions file: \.github\workflowspages.yml
+   - This first runs a bash script to generate a file listing: \.github\scripts\run-find.sh
+   - Then runs a python script to generate the jekyll YML: produce-jekyll-yml.py
+   - Then runs Jekyll to build and deploy the static website: https://chrisparker.github.io/JekyllTest/
 
-See https://chrisparker.github.io/JekyllTest/layoutexample.html
-
-This page is generated from two files:
-
-https://github.com/chrisparker/JekyllTest/blob/main/docs/_layouts/representation.html
-https://github.com/chrisparker/JekyllTest/blob/main/docs/layoutexample.html
-
-The point being that you put your template in one file, and the variables in the other, and this allows you to add new pages by putting a reasonably minimal data file in the right place. Note the 'if' statement that allows you to easily extend the template with new html/properties when you find them without updating all the data.
-
-### 2. Using includes. 
-
-This enables you to "include" another page, allowing static content as the main page, calling out to include another file in the middle of the HTML.
-
-See https://chrisparker.github.io/JekyllTest/includeexample.html
-
-This page is generated from two files:
-
-https://github.com/chrisparker/JekyllTest/blob/main/docs/_includes/basicinclude.html
-https://github.com/chrisparker/JekyllTest/blob/main/docs/includeexample.html
-
-The point being you can include multiple pages inside others.
-
-### 3. Using data iteration. 
-
-This enables you to have a single yml file describing the data, and then iterate over it within a page to create the items you want.
-
-See https://chrisparker.github.io/JekyllTest/dataiterationexample.html
-
-This page is generated from two files:
-
-https://github.com/chrisparker/JekyllTest/blob/main/docs/dataiterationexample.html
-https://github.com/chrisparker/JekyllTest/blob/main/docs/_data/representations.yml
-
-The point being that you can construct a row in an html grid from a set of data in a yml file.
-
-### 4. Using data generation. 
-
-A github action generates the yml data file from the files in a directory, and then the page iterates over that data to generate the html.
-
-See https://chrisparker.github.io/JekyllTest/data-generation-example.html
-
-This builds on the data include above by using a github action to run this shell script first to generate the yml file, and then building that with jekyll as before. This is the script:
-
-https://github.com/chrisparker/JekyllTest/blob/main/.github/scripts/create-file.sh
-
-As a result, if you were logged into GitHub and added a file to this directory:
-https://github.com/chrisparker/JekyllTest/tree/main/brook/spor/Co1/mtx
-
-The link would automatically appear as an extra line on the data generation page after the build was done (takes about 45 seconds).
