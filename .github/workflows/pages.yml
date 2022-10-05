@@ -33,8 +33,7 @@ jobs:
         run: ./.github/scripts/create-file.sh
         shell: bash
       - name: Run python test script
-        run: |
-          print('hello world')
+        run: ./.github/scripts/python-test.py
         shell: python
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
