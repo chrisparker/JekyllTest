@@ -3,27 +3,26 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-			<title>Data Iteration</title>
-		</head>
-		<body>
-			<table>
-				<tr>
-					<th>File Name</th>
-					<th>Group</th>
-					<th>Category</th>
-					<th>Object Type</th>
-				</tr>
-				
-				{% for item in site.data.groups %}
-				<tr>
-					<td>
-						<a href="https://github.com/chrisparker/JekyllTest/tree/main/brook/{{ item.fullPath }}">{{ item.objectName }}</a>
-					</td>
-					<td>{{ item.groupName }}</td>
-					<td>{{ item.category }}</td>
-					<td>{{ item.objectType }}</td>
-				</tr>
-				{% endfor %}
-			</table>
-		</body>
-	</html>
+		<title>Data Iteration</title>
+	</head>
+	<body>
+		<table>
+			<tr>
+				<th>File Name</th>
+				<th>Group</th>
+				<th>Category</th>
+				<th>Object Type</th>
+			</tr>
+			{% for item in site.data.groups %}
+			<tr>
+				<td>
+					<a href="https://github.com/chrisparker/JekyllTest/tree/main/brook/{{ item.fullPath }}">{{ item.objectName }}</a>
+				</td>
+				<td>{{ item.groupName }}</td>
+				<td>{{ item.category }}</td>
+				<td>{{ item.objectType }}</td>
+			</tr>
+			{% endfor %}
+		</table>
+	</body>
+</html>
