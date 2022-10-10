@@ -33,7 +33,7 @@ for x in f:
 
 f.close()
 
-f = open("../../docs/_data/groups.yml", "w")
+f = open("docs/_data/groups.yml", "w")
 for group in groups:
   f.write("- groupName: ")
   f.write(group.groupName)
