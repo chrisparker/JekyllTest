@@ -8,12 +8,25 @@
     <title>Data Iteration</title>
   </head>
   <body>
-  <ul>
-	  {% for item in site.data.spor-listing %}
-		<li><a href="https://github.com/chrisparker/JekyllTest/tree/main/brook/{{ item.fileName }}">
-		  {{ item.fileName }}
-		</a></li>
+  <table>  
+    <th>
+       <td>File Name</td>
+	   <td>Group</td>
+	   <td>Category</td>
+	   <td>Object Type</td>
+    </th>
+	  {% for item in site.data.groups %}
+	  <tr>
+	    <td>
+		  <a href="https://github.com/chrisparker/JekyllTest/tree/main/brook/{{ item.fullPath }}">
+		    {{ item.objectName }}
+		  </a>
+		</td>
+	    <td>{{ item.groupName }}</td>
+	    <td>{{ item.category }}</td>
+	    <td>{{ item.objectType }}</td>
+	  </tr>
 	  {% endfor %}
-  </ul>  
+  </table>  
   </body>
 </html>
