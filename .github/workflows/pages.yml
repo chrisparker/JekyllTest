@@ -32,7 +32,7 @@ jobs:
       - name: Produce Jekyll YML with Python
         run: |
           import subprocess
-          subprocess.run(['python', '.github/scripts/produce-jekyll-yml.py'])
+          subprocess.run(['python', '.github/scripts/produce-jekyll-yml.py'], check=True)
         shell: python
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
