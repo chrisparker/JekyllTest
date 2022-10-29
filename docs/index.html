@@ -10,19 +10,17 @@
 	<body>
 		<table>
 			<tr>
-				<th>File Name</th>
+				<th>Permutation Representation</th>
 				<th>Group</th>
-				<th>Category</th>
-				<th>Object Type</th>
+				<th>Batch</th>
 			</tr>
 			{% for item in site.data.groups %}
 			<tr>
 				<td>
-					<a href="https://github.com/chrisparker/JekyllTest/tree/main/brook/{{ item.fullPath }}">{{ item.objectName }}</a>
+					<a href="https://brauer.maths.qmul.ac.uk/Atlas/v3/permrep/{{ item.permRepName }}">{{ item.permRepName }}</a>
 				</td>
 				<td>{{ item.groupName }}</td>
-				<td>{{ item.category }}</td>
-				<td>{{ item.objectType }}</td>
+				<td>{{ item.batch }}</td>
 			</tr>
 			{% endfor %}
 		</table>
