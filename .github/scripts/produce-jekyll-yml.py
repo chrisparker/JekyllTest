@@ -25,7 +25,7 @@ groups = []
 for simpleGroup in theta["caboodle"]:
   groupName = simpleGroup["name"]
   batch = simpleGroup["batch"]
-  for isoGroup in simpleGroup.get("isoGroup", []):
+  for isoGroup in simpleGroup.get("isoGroups", []):
     for permRep in isoGroup.get("permReps", []):
       permRepName = permRep["name"]
       newGroup = Group(batch, groupName, permRepName)  
