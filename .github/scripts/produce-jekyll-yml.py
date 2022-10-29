@@ -25,11 +25,13 @@ groups = []
 for simpleGroup in theta["caboodle"]:
   groupName = simpleGroup["name"]
   batch = simpleGroup["batch"]
-  for isoGroup in simpleGroup["isoGroup"]:
-    for permRep in isoGroup["permReps"]:
-      permRepName = permRep["name"]
-      newGroup = Group(batch, groupName, permRepName)  
-      groups.append(newGroup)
+  if 'isoGroup' in simpleGroup
+    for isoGroup in simpleGroup["isoGroup"]:
+      if 'permReps' in simpleGroup
+        for permRep in isoGroup["permReps"]:
+          permRepName = permRep["name"]
+          newGroup = Group(batch, groupName, permRepName)  
+          groups.append(newGroup)
 
 f = open("docs/_data/groups.yml", "w")
 for group in groups:
