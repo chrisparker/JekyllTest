@@ -28,8 +28,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "24A8",
     "batch" : "misc",
     "isoGroups" : [
@@ -207,8 +207,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "25L52",
     "batch" : "misc",
     "isoGroups" : [
@@ -404,8 +404,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "53L35",
     "batch" : "misc",
     "isoGroups" : [
@@ -519,8 +519,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A10",
     "batch" : "alt",
     "isoGroups" : [
@@ -1990,8 +1990,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A11",
     "batch" : "alt",
     "isoGroups" : [
@@ -3485,8 +3485,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A12",
     "batch" : "alt",
     "isoGroups" : [
@@ -4292,8 +4292,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A13",
     "batch" : "alt",
     "isoGroups" : [
@@ -4772,8 +4772,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A14",
     "batch" : "alt",
     "isoGroups" : [
@@ -5855,8 +5855,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A15",
     "batch" : "alt",
     "isoGroups" : [
@@ -6159,8 +6159,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A16",
     "batch" : "alt",
     "isoGroups" : [
@@ -6463,8 +6463,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A17",
     "batch" : "alt",
     "isoGroups" : [
@@ -6767,8 +6767,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A18",
     "batch" : "alt",
     "isoGroups" : [
@@ -7023,8 +7023,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A19",
     "batch" : "alt",
     "isoGroups" : [
@@ -7237,8 +7237,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A20",
     "batch" : "alt",
     "isoGroups" : [
@@ -7409,8 +7409,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A21",
     "batch" : "alt",
     "isoGroups" : [
@@ -7581,8 +7581,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A22",
     "batch" : "alt",
     "isoGroups" : [
@@ -7753,8 +7753,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A23",
     "batch" : "alt",
     "isoGroups" : [
@@ -7925,8 +7925,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A5",
     "batch" : "alt",
     "isoGroups" : [
@@ -9415,8 +9415,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A6",
     "batch" : "alt",
     "isoGroups" : [
@@ -11240,8 +11240,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A7",
     "batch" : "alt",
     "isoGroups" : [
@@ -14665,8 +14665,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A8",
     "batch" : "alt",
     "isoGroups" : [
@@ -15748,8 +15748,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "A9",
     "batch" : "alt",
     "isoGroups" : [
@@ -17267,8 +17267,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "B",
     "batch" : "spor",
     "isoGroups" : [
@@ -17339,8 +17339,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "Co1",
     "batch" : "spor",
     "isoGroups" : [
@@ -17833,8 +17833,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "Co2",
     "batch" : "spor",
     "isoGroups" : [
@@ -18318,8 +18318,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "Co3",
     "batch" : "spor",
     "isoGroups" : [
@@ -19100,8 +19100,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "E62",
     "batch" : "exc",
     "isoGroups" : [
@@ -19226,8 +19226,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "E64",
     "batch" : "exc",
     "isoGroups" : [
@@ -19308,8 +19308,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "E72",
     "batch" : "exc",
     "isoGroups" : [
@@ -19359,8 +19359,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "E74",
     "batch" : "exc",
     "isoGroups" : [
@@ -19431,8 +19431,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "E82",
     "batch" : "exc",
     "isoGroups" : [
@@ -19482,8 +19482,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "E85",
     "batch" : "exc",
     "isoGroups" : [
@@ -19512,8 +19512,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "F22",
     "batch" : "spor",
     "isoGroups" : [
@@ -20648,8 +20648,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "F23",
     "batch" : "spor",
     "isoGroups" : [
@@ -20931,8 +20931,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "F24",
     "batch" : "spor",
     "isoGroups" : [
@@ -21148,8 +21148,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "F42",
     "batch" : "exc",
     "isoGroups" : [
@@ -21405,8 +21405,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "G22",
     "batch" : "exc",
     "isoGroups" : [
@@ -22256,8 +22256,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "G23",
     "batch" : "exc",
     "isoGroups" : [
@@ -22983,8 +22983,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "G24",
     "batch" : "exc",
     "isoGroups" : [
@@ -24134,8 +24134,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "G25",
     "batch" : "exc",
     "isoGroups" : [
@@ -24606,8 +24606,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "He",
     "batch" : "spor",
     "isoGroups" : [
@@ -25580,8 +25580,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "HN",
     "batch" : "spor",
     "isoGroups" : [
@@ -26116,8 +26116,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "HS",
     "batch" : "spor",
     "isoGroups" : [
@@ -29110,8 +29110,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "J1",
     "batch" : "spor",
     "isoGroups" : [
@@ -30951,8 +30951,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "J2",
     "batch" : "spor",
     "isoGroups" : [
@@ -33943,8 +33943,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "J3",
     "batch" : "spor",
     "isoGroups" : [
@@ -35935,8 +35935,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "J4",
     "batch" : "spor",
     "isoGroups" : [
@@ -36038,8 +36038,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2101",
     "batch" : "lin",
     "isoGroups" : [
@@ -36101,8 +36101,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2103",
     "batch" : "lin",
     "isoGroups" : [
@@ -36164,8 +36164,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2107",
     "batch" : "lin",
     "isoGroups" : [
@@ -36227,8 +36227,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2109",
     "batch" : "lin",
     "isoGroups" : [
@@ -36290,12 +36290,12 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L211",
     "batch" : "lin",
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2113",
     "batch" : "lin",
     "isoGroups" : [
@@ -36357,8 +36357,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L211"
     "isoGroups" : [
     { "type" : "isoGroup",
@@ -37440,8 +37440,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2127",
     "batch" : "lin",
     "isoGroups" : [
@@ -37503,8 +37503,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2128",
     "batch" : "lin",
     "isoGroups" : [
@@ -37549,8 +37549,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2131",
     "batch" : "lin",
     "isoGroups" : [
@@ -37612,8 +37612,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L213",
     "batch" : "lin",
     "isoGroups" : [
@@ -38578,8 +38578,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2137",
     "batch" : "lin",
     "isoGroups" : [
@@ -38641,8 +38641,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2139",
     "batch" : "lin",
     "isoGroups" : [
@@ -38704,8 +38704,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2149",
     "batch" : "lin",
     "isoGroups" : [
@@ -38767,8 +38767,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2151",
     "batch" : "lin",
     "isoGroups" : [
@@ -38830,8 +38830,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2157",
     "batch" : "lin",
     "isoGroups" : [
@@ -38893,12 +38893,12 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L216",
     "batch" : "lin",
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2163",
     "batch" : "lin",
     "isoGroups" : [
@@ -38960,8 +38960,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L216"
     "isoGroups" : [
     { "type" : "isoGroup",
@@ -39679,8 +39679,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2167",
     "batch" : "lin",
     "isoGroups" : [
@@ -39742,12 +39742,12 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L217",
     "batch" : "lin",
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2173",
     "batch" : "lin",
     "isoGroups" : [
@@ -39809,8 +39809,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L217"
     "isoGroups" : [
     { "type" : "isoGroup",
@@ -40654,8 +40654,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2179",
     "batch" : "lin",
     "isoGroups" : [
@@ -40717,8 +40717,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2181",
     "batch" : "lin",
     "isoGroups" : [
@@ -40780,8 +40780,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2191",
     "batch" : "lin",
     "isoGroups" : [
@@ -40843,12 +40843,12 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L219",
     "batch" : "lin",
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2193",
     "batch" : "lin",
     "isoGroups" : [
@@ -40910,8 +40910,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L219"
     "isoGroups" : [
     { "type" : "isoGroup",
@@ -42020,8 +42020,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2197",
     "batch" : "lin",
     "isoGroups" : [
@@ -42083,8 +42083,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2199",
     "batch" : "lin",
     "isoGroups" : [
@@ -42146,8 +42146,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2211",
     "batch" : "lin",
     "isoGroups" : [
@@ -42209,8 +42209,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2223",
     "batch" : "lin",
     "isoGroups" : [
@@ -42272,8 +42272,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2227",
     "batch" : "lin",
     "isoGroups" : [
@@ -42335,8 +42335,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2229",
     "batch" : "lin",
     "isoGroups" : [
@@ -42398,12 +42398,12 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L223",
     "batch" : "lin",
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2233",
     "batch" : "lin",
     "isoGroups" : [
@@ -42465,8 +42465,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L223"
     "isoGroups" : [
     { "type" : "isoGroup",
@@ -43192,8 +43192,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2239",
     "batch" : "lin",
     "isoGroups" : [
@@ -43255,8 +43255,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L2241",
     "batch" : "lin",
     "isoGroups" : [
@@ -43318,8 +43318,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L227",
     "batch" : "lin",
     "isoGroups" : [
@@ -43676,8 +43676,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L229",
     "batch" : "lin",
     "isoGroups" : [
@@ -44313,8 +44313,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L231",
     "batch" : "lin",
     "isoGroups" : [
@@ -44908,8 +44908,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L232",
     "batch" : "lin",
     "isoGroups" : [
@@ -45516,8 +45516,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L237",
     "batch" : "lin",
     "isoGroups" : [
@@ -45579,8 +45579,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L241",
     "batch" : "lin",
     "isoGroups" : [
@@ -45642,12 +45642,12 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L24",
     "batch" : "lin",
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L243",
     "batch" : "lin",
     "isoGroups" : [
@@ -45709,8 +45709,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L24"
     "isoGroups" : [
     { "type" : "isoGroup",
@@ -47198,8 +47198,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L247",
     "batch" : "lin",
     "isoGroups" : [
@@ -47261,8 +47261,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L249",
     "batch" : "lin",
     "isoGroups" : [
@@ -47528,12 +47528,12 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L25",
     "batch" : "lin",
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L253",
     "batch" : "lin",
     "isoGroups" : [
@@ -47595,8 +47595,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L25"
     "isoGroups" : [
     { "type" : "isoGroup",
@@ -49084,8 +49084,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L259",
     "batch" : "lin",
     "isoGroups" : [
@@ -49147,8 +49147,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L261",
     "batch" : "lin",
     "isoGroups" : [
@@ -49210,8 +49210,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L264",
     "batch" : "lin",
     "isoGroups" : [
@@ -49256,8 +49256,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L267",
     "batch" : "lin",
     "isoGroups" : [
@@ -49319,8 +49319,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L271",
     "batch" : "lin",
     "isoGroups" : [
@@ -49382,12 +49382,12 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L27",
     "batch" : "lin",
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L273",
     "batch" : "lin",
     "isoGroups" : [
@@ -49449,8 +49449,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L27"
     "isoGroups" : [
     { "type" : "isoGroup",
@@ -51106,8 +51106,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L279",
     "batch" : "lin",
     "isoGroups" : [
@@ -51169,12 +51169,12 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L28",
     "batch" : "lin",
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L283",
     "batch" : "lin",
     "isoGroups" : [
@@ -51236,8 +51236,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L28"
     "isoGroups" : [
     { "type" : "isoGroup",
@@ -52078,8 +52078,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L289",
     "batch" : "lin",
     "isoGroups" : [
@@ -52141,8 +52141,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L29",
     "batch" : "lin",
     "isoGroups" : [
@@ -53966,8 +53966,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L297",
     "batch" : "lin",
     "isoGroups" : [
@@ -54029,8 +54029,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L311",
     "batch" : "lin",
     "isoGroups" : [
@@ -54331,8 +54331,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L313",
     "batch" : "lin",
     "isoGroups" : [
@@ -54443,8 +54443,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L32",
     "batch" : "lin",
     "isoGroups" : [
@@ -56101,8 +56101,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L33",
     "batch" : "lin",
     "isoGroups" : [
@@ -57108,8 +57108,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L34",
     "batch" : "lin",
     "isoGroups" : [
@@ -62257,8 +62257,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L35",
     "batch" : "lin",
     "isoGroups" : [
@@ -62775,8 +62775,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L37",
     "batch" : "lin",
     "isoGroups" : [
@@ -63554,8 +63554,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L38",
     "batch" : "lin",
     "isoGroups" : [
@@ -66016,8 +66016,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L42",
     "batch" : "lin",
     "isoGroups" : [
@@ -67099,8 +67099,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L43",
     "batch" : "lin",
     "isoGroups" : [
@@ -67216,8 +67216,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L44",
     "batch" : "lin",
     "isoGroups" : [
@@ -67340,8 +67340,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L45",
     "batch" : "lin",
     "isoGroups" : [
@@ -67404,8 +67404,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L52",
     "batch" : "lin",
     "isoGroups" : [
@@ -68073,8 +68073,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L62",
     "batch" : "lin",
     "isoGroups" : [
@@ -68891,8 +68891,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "L72",
     "batch" : "lin",
     "isoGroups" : [
@@ -69718,8 +69718,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "Ly",
     "batch" : "spor",
     "isoGroups" : [
@@ -69853,8 +69853,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "M11",
     "batch" : "spor",
     "isoGroups" : [
@@ -70692,8 +70692,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "M12",
     "batch" : "spor",
     "isoGroups" : [
@@ -72849,8 +72849,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "M20",
     "batch" : "misc",
     "isoGroups" : [
@@ -73259,8 +73259,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "M22",
     "batch" : "spor",
     "isoGroups" : [
@@ -79051,8 +79051,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "M23",
     "batch" : "spor",
     "isoGroups" : [
@@ -80469,8 +80469,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "M24",
     "batch" : "spor",
     "isoGroups" : [
@@ -81824,8 +81824,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "McL",
     "batch" : "spor",
     "isoGroups" : [
@@ -83874,8 +83874,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "O10m2",
     "batch" : "clas",
     "isoGroups" : [
@@ -84293,8 +84293,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "O10p2",
     "batch" : "clas",
     "isoGroups" : [
@@ -85048,8 +85048,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "O73",
     "batch" : "clas",
     "isoGroups" : [
@@ -85788,8 +85788,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "O8m2",
     "batch" : "clas",
     "isoGroups" : [
@@ -86474,8 +86474,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "O8m3",
     "batch" : "clas",
     "isoGroups" : [
@@ -86824,8 +86824,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "O8p2",
     "batch" : "clas",
     "isoGroups" : [
@@ -86989,8 +86989,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "O8p3",
     "batch" : "clas",
     "isoGroups" : [
@@ -87897,8 +87897,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "O93",
     "batch" : "clas",
     "isoGroups" : [
@@ -88005,8 +88005,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "ON",
     "batch" : "spor",
     "isoGroups" : [
@@ -88542,8 +88542,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "R27",
     "batch" : "exc",
     "isoGroups" : [
@@ -88705,8 +88705,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "R3",
     "batch" : "exc",
     "isoGroups" : [
@@ -89548,8 +89548,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "Ru",
     "batch" : "spor",
     "isoGroups" : [
@@ -90170,8 +90170,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "S102",
     "batch" : "clas",
     "isoGroups" : [
@@ -90553,8 +90553,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "S411",
     "batch" : "clas",
     "isoGroups" : [
@@ -90661,8 +90661,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "S413",
     "batch" : "clas",
     "isoGroups" : [
@@ -90745,8 +90745,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "S417",
     "batch" : "clas",
     "isoGroups" : [
@@ -90829,8 +90829,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "S419",
     "batch" : "clas",
     "isoGroups" : [
@@ -90913,8 +90913,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "S42",
     "batch" : "clas",
     "isoGroups" : [
@@ -92738,8 +92738,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "S43",
     "batch" : "clas",
     "isoGroups" : [
@@ -93864,8 +93864,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "S44",
     "batch" : "clas",
     "isoGroups" : [
@@ -94372,8 +94372,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "S45",
     "batch" : "clas",
     "isoGroups" : [
@@ -94898,8 +94898,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "S47",
     "batch" : "clas",
     "isoGroups" : [
@@ -95207,8 +95207,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "S49",
     "batch" : "clas",
     "isoGroups" : [
@@ -95303,8 +95303,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "S62",
     "batch" : "clas",
     "isoGroups" : [
@@ -96613,8 +96613,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "S63",
     "batch" : "clas",
     "isoGroups" : [
@@ -97094,8 +97094,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "S65",
     "batch" : "clas",
     "isoGroups" : [
@@ -97149,8 +97149,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "S82",
     "batch" : "clas",
     "isoGroups" : [
@@ -97622,8 +97622,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "S83",
     "batch" : "clas",
     "isoGroups" : [
@@ -97677,8 +97677,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "Suz",
     "batch" : "spor",
     "isoGroups" : [
@@ -99000,8 +99000,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "Sz32",
     "batch" : "exc",
     "isoGroups" : [
@@ -99251,8 +99251,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "Sz8",
     "batch" : "exc",
     "isoGroups" : [
@@ -100489,8 +100489,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "TD42",
     "batch" : "exc",
     "isoGroups" : [
@@ -101129,8 +101129,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "TD43",
     "batch" : "exc",
     "isoGroups" : [
@@ -101202,8 +101202,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "TE62",
     "batch" : "exc",
     "isoGroups" : [
@@ -101555,8 +101555,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "TF42",
     "batch" : "exc",
     "isoGroups" : [
@@ -102607,8 +102607,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "Th",
     "batch" : "spor",
     "isoGroups" : [
@@ -102829,8 +102829,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U311",
     "batch" : "clas",
     "isoGroups" : [
@@ -103120,8 +103120,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U313",
     "batch" : "clas",
     "isoGroups" : [
@@ -103150,8 +103150,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U316",
     "batch" : "clas",
     "isoGroups" : [
@@ -103180,8 +103180,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U33",
     "batch" : "clas",
     "isoGroups" : [
@@ -104031,8 +104031,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U34",
     "batch" : "clas",
     "isoGroups" : [
@@ -105955,8 +105955,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U35",
     "batch" : "clas",
     "isoGroups" : [
@@ -106834,8 +106834,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U37",
     "batch" : "clas",
     "isoGroups" : [
@@ -107427,8 +107427,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U38",
     "batch" : "clas",
     "isoGroups" : [
@@ -108208,8 +108208,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U39",
     "batch" : "clas",
     "isoGroups" : [
@@ -108251,8 +108251,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U42",
     "batch" : "clas",
     "isoGroups" : [
@@ -109377,8 +109377,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U43",
     "batch" : "clas",
     "isoGroups" : [
@@ -109800,8 +109800,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U44",
     "batch" : "clas",
     "isoGroups" : [
@@ -109918,8 +109918,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U45",
     "batch" : "clas",
     "isoGroups" : [
@@ -109982,8 +109982,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U52",
     "batch" : "clas",
     "isoGroups" : [
@@ -111067,8 +111067,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U53",
     "batch" : "clas",
     "isoGroups" : [
@@ -111349,8 +111349,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U54",
     "batch" : "clas",
     "isoGroups" : [
@@ -111400,8 +111400,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U62",
     "batch" : "clas",
     "isoGroups" : [
@@ -114374,8 +114374,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U63",
     "batch" : "clas",
     "isoGroups" : [
@@ -114425,8 +114425,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U72",
     "batch" : "clas",
     "isoGroups" : [
@@ -114519,8 +114519,8 @@
         } ]
       } ]
     } ]
-    },
-    { "type" : "simpleGroup",
+  },
+  { "type" : "simpleGroup",
     "name" : "U82",
     "batch" : "clas",
     "isoGroups" : [
@@ -114570,5 +114570,5 @@
         } ]
       } ]
     } ]
-    }
+  }
   ]}
