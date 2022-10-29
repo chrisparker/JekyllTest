@@ -55,7 +55,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "24A8G1-p30",
@@ -77,7 +77,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "24A8G1-Zr15",
@@ -234,7 +234,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "25L52G1-p7440b",
@@ -255,7 +255,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "25L52G1-p7440c",
@@ -277,7 +277,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "25L52G1-Zr248",
@@ -431,7 +431,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "53L35G2-p3875b",
@@ -452,7 +452,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "53L35G2-p4650",
@@ -648,7 +648,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A10G1-p120",
@@ -669,7 +669,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A10G1-p126",
@@ -690,7 +690,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A10G1-p210",
@@ -711,7 +711,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A10G1-p2520",
@@ -732,7 +732,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A10G1-p45",
@@ -753,7 +753,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A10G1-p945",
@@ -775,7 +775,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A10G1-Zr126",
@@ -2406,7 +2406,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A11G1-p165",
@@ -2427,7 +2427,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A11G1-p2520a",
@@ -2448,7 +2448,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A11G1-p2520b",
@@ -2469,7 +2469,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A11G1-p330",
@@ -2490,7 +2490,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A11G1-p462",
@@ -2511,7 +2511,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A11G1-p55",
@@ -2533,7 +2533,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A11G1-Cr126a",
@@ -3622,7 +3622,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A12G1-p220",
@@ -3643,7 +3643,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A12G1-p2520",
@@ -3664,7 +3664,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A12G1-p462",
@@ -3685,7 +3685,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A12G1-p495",
@@ -3706,7 +3706,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A12G1-p66",
@@ -3727,7 +3727,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A12G1-p792",
@@ -3749,7 +3749,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A12G1-Zr11",
@@ -4100,7 +4100,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S12G1-p12",
@@ -4121,7 +4121,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S12G1-p15400",
@@ -4142,7 +4142,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S12G1-p220",
@@ -4163,7 +4163,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S12G1-p462",
@@ -4184,7 +4184,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S12G1-p495",
@@ -4205,7 +4205,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S12G1-p5040",
@@ -4226,7 +4226,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S12G1-p5775",
@@ -4247,7 +4247,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S12G1-p66",
@@ -4268,7 +4268,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S12G1-p792",
@@ -4576,7 +4576,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A13G1-p78",
@@ -4598,7 +4598,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A13G1-Zr12",
@@ -4748,7 +4748,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S13G1-p78",
@@ -5003,7 +5003,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A14G1-p135135",
@@ -5015,7 +5015,7 @@
           { "type" : "format",
             "name" : "mag"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A14G1-p14",
@@ -5036,7 +5036,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A14G1-p1716",
@@ -5057,7 +5057,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A14G1-p2002",
@@ -5078,7 +5078,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A14G1-p3003",
@@ -5099,7 +5099,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A14G1-p364",
@@ -5120,7 +5120,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A14G1-p91",
@@ -5142,7 +5142,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A14G1-Zr13",
@@ -5592,7 +5592,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S14G1-p135135",
@@ -5604,7 +5604,7 @@
           { "type" : "format",
             "name" : "mag"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S14G1-p14",
@@ -5625,7 +5625,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S14G1-p1716",
@@ -5646,7 +5646,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S14G1-p2002",
@@ -5667,7 +5667,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S14G1-p3003",
@@ -5688,7 +5688,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S14G1-p364",
@@ -5709,7 +5709,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S14G1-p39916800",
@@ -5728,7 +5728,7 @@
           { "type" : "format",
             "name" : "mag"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S14G1-p91",
@@ -5882,7 +5882,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A15G1-p1365",
@@ -5903,7 +5903,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A15G1-p15",
@@ -5924,7 +5924,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A15G1-p455",
@@ -5946,7 +5946,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A15G1-Zr14",
@@ -6032,7 +6032,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S15G1-p1365",
@@ -6053,7 +6053,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S15G1-p15",
@@ -6074,7 +6074,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S15G1-p455",
@@ -6096,7 +6096,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S15G1-Zr14",
@@ -6186,7 +6186,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A16G1-p16",
@@ -6207,7 +6207,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A16G1-p1820",
@@ -6228,7 +6228,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A16G1-p560",
@@ -6250,7 +6250,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A16G1-Zr104",
@@ -6336,7 +6336,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S16G1-p16",
@@ -6357,7 +6357,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S16G1-p1820",
@@ -6378,7 +6378,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S16G1-p560",
@@ -6400,7 +6400,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S16G1-Zr104",
@@ -6490,7 +6490,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A17G1-p17",
@@ -6511,7 +6511,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A17G1-p2380",
@@ -6532,7 +6532,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A17G1-p680",
@@ -6554,7 +6554,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A17G1-Zr119",
@@ -6640,7 +6640,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S17G1-p17",
@@ -6661,7 +6661,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S17G1-p2380",
@@ -6682,7 +6682,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S17G1-p680",
@@ -6704,7 +6704,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S17G1-Zr119",
@@ -6794,7 +6794,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A18G1-p18",
@@ -6815,7 +6815,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A18G1-p3060",
@@ -6836,7 +6836,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A18G1-p816",
@@ -6858,7 +6858,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A18G1-Zr135",
@@ -6920,7 +6920,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S18G1-p18",
@@ -6941,7 +6941,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S18G1-p3060",
@@ -6962,7 +6962,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S18G1-p816",
@@ -6984,7 +6984,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S18G1-Zr135",
@@ -7050,7 +7050,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A19G1-p19",
@@ -7071,7 +7071,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A19G1-p969",
@@ -7093,7 +7093,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A19G1-Zr152",
@@ -7155,7 +7155,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S19G1-p19",
@@ -7176,7 +7176,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S19G1-p969",
@@ -7198,7 +7198,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S19G1-Zr152",
@@ -7264,7 +7264,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A20G1-p20",
@@ -7286,7 +7286,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A20G1-Zr170",
@@ -7348,7 +7348,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S20G1-p20",
@@ -7370,7 +7370,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S20G1-Zr170",
@@ -7436,7 +7436,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A21G1-p21",
@@ -7458,7 +7458,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A21G1-Zr189",
@@ -7520,7 +7520,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S21G1-p21",
@@ -7542,7 +7542,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S21G1-Zr189",
@@ -7608,7 +7608,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A22G1-p231",
@@ -7630,7 +7630,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A22G1-Zr209",
@@ -7692,7 +7692,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S22G1-p231",
@@ -7714,7 +7714,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S22G1-Zr209",
@@ -7780,7 +7780,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A23G1-p253",
@@ -7802,7 +7802,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A23G1-Zr22",
@@ -7864,7 +7864,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S23G1-p253",
@@ -7886,7 +7886,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S23G1-Zr22",
@@ -7952,7 +7952,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2A5G1-p40",
@@ -7974,7 +7974,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2A5G1-Ar2a",
@@ -8441,7 +8441,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S5G1-p40b",
@@ -8462,7 +8462,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S5G1-p48",
@@ -8484,7 +8484,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2S5G1-Ar4b",
@@ -8667,7 +8667,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S5iG1-p80",
@@ -8689,7 +8689,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2S5iG1-Ar4a",
@@ -8888,7 +8888,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A5G1-p5",
@@ -8909,7 +8909,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A5G1-p6",
@@ -8931,7 +8931,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A5G1-Ar3a",
@@ -9243,7 +9243,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S5G1-p5",
@@ -9264,7 +9264,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S5G1-p6",
@@ -9442,7 +9442,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2A6G1-p240a",
@@ -9463,7 +9463,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2A6G1-p240b",
@@ -9484,7 +9484,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2A6G1-p80",
@@ -9506,7 +9506,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2A6G1-Ar4",
@@ -9800,7 +9800,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S6G1-p288",
@@ -9821,7 +9821,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S6G1-p80",
@@ -9868,7 +9868,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3A6G1-p18b",
@@ -9889,7 +9889,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3A6G1-p45a",
@@ -9910,7 +9910,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3A6G1-p45b",
@@ -9932,7 +9932,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "3A6G1-Ar15",
@@ -10259,7 +10259,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3S6G1-p18b",
@@ -10280,7 +10280,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3S6G1-p45a",
@@ -10301,7 +10301,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3S6G1-p45b",
@@ -10348,7 +10348,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "6A6G1-p720a",
@@ -10370,7 +10370,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "6A6G1-Ar12",
@@ -10564,7 +10564,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A6G1-p15a",
@@ -10585,7 +10585,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A6G1-p15b",
@@ -10606,7 +10606,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A6G1-p6a",
@@ -10627,7 +10627,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A6G1-p6b",
@@ -10649,7 +10649,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A6G1-Ar8a",
@@ -11153,7 +11153,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S6G1-p15a",
@@ -11174,7 +11174,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S6G1-p15b",
@@ -11195,7 +11195,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S6G1-p6a",
@@ -11216,7 +11216,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S6G1-p6b",
@@ -11268,7 +11268,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2A7G1-Ar20a",
@@ -12160,7 +12160,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3A7G1-p45a",
@@ -12181,7 +12181,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3A7G1-p45b",
@@ -12202,7 +12202,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3A7G1-p63",
@@ -12224,7 +12224,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "3A7G1-Ar15a",
@@ -12836,7 +12836,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3S7G1-p90",
@@ -13179,7 +13179,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "6A7G1-Cr6",
@@ -13497,7 +13497,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A7G1-Cr10a",
@@ -14157,7 +14157,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S7G1-p21",
@@ -14178,7 +14178,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S7G1-p30",
@@ -14199,7 +14199,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S7G1-p35",
@@ -14220,7 +14220,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S7G1-p7",
@@ -14692,7 +14692,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2A8G1-p240b",
@@ -14713,7 +14713,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2A8G1-p240c",
@@ -14735,7 +14735,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2A8G1-Cr24a",
@@ -15242,7 +15242,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A8G1-p15b",
@@ -15263,7 +15263,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A8G1-p8",
@@ -15285,7 +15285,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A8G1-Cr21b",
@@ -15940,7 +15940,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A9G1-p120b",
@@ -15961,7 +15961,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A9G1-p126",
@@ -15982,7 +15982,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A9G1-p280",
@@ -16003,7 +16003,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A9G1-p36",
@@ -16024,7 +16024,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A9G1-p840",
@@ -16045,7 +16045,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A9G1-p84",
@@ -16066,7 +16066,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A9G1-p9",
@@ -16088,7 +16088,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A9G1-Cr21a",
@@ -17367,7 +17367,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2Co1G1-Zr24",
@@ -17860,7 +17860,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "Co2G1-p4600",
@@ -17882,7 +17882,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "Co2G1-Zr23",
@@ -18345,7 +18345,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "Co3G1-p128800",
@@ -18366,7 +18366,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "Co3G1-p276",
@@ -18387,7 +18387,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "Co3G1-p37950",
@@ -18408,7 +18408,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "Co3G1-p48600",
@@ -18429,7 +18429,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "Co3G1-p552",
@@ -18451,7 +18451,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "Co3G1-Zr23",
@@ -19539,7 +19539,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2F22G1-p28160",
@@ -19895,7 +19895,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "F22G1-p142155",
@@ -19916,7 +19916,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "F22G1-p3510",
@@ -19937,7 +19937,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "F22G1-p61776",
@@ -19958,7 +19958,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "F22G1-p694980",
@@ -19980,7 +19980,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "F22G1-Zr78",
@@ -20314,7 +20314,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "F22d2G1-Zr78",
@@ -20675,7 +20675,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "F23G1-p275264",
@@ -20696,7 +20696,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "F23G1-p31671",
@@ -21176,7 +21176,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2F42G1-Zr52",
@@ -21432,7 +21432,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U33G1-p36",
@@ -21453,7 +21453,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U33G1-p63a",
@@ -21474,7 +21474,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U33G1-p63b",
@@ -21496,7 +21496,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U33G1-Ar21b",
@@ -22859,7 +22859,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "G23d2G1-Ar14",
@@ -23248,7 +23248,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "G24G1-p1365b",
@@ -23269,7 +23269,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "G24G1-p2016",
@@ -23290,7 +23290,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "G24G1-p20800",
@@ -23311,7 +23311,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "G24G1-p2080",
@@ -23332,7 +23332,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "G24G1-p416",
@@ -23354,7 +23354,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "G24G1-Zr350",
@@ -24161,7 +24161,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "G25G1-p3906b",
@@ -24182,7 +24182,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "G25G1-p7750",
@@ -24203,7 +24203,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "G25G1-p7875",
@@ -24633,7 +24633,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "HeG1-p244800",
@@ -24654,7 +24654,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "HeG1-p29155",
@@ -24675,7 +24675,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "HeG1-p8330",
@@ -24697,7 +24697,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "HeG1-Zr102",
@@ -25198,7 +25198,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "Hed2G1-p8330",
@@ -25608,7 +25608,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "HNG1-Cr133a",
@@ -26143,7 +26143,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2HSG1-p4400",
@@ -26164,7 +26164,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2HSG1-p704",
@@ -26470,7 +26470,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "HSG1-p1100a",
@@ -26491,7 +26491,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "HSG1-p1100b",
@@ -26512,7 +26512,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "HSG1-p15400",
@@ -26533,7 +26533,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "HSG1-p176b",
@@ -26554,7 +26554,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "HSG1-p3850",
@@ -26575,7 +26575,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "HSG1-p4125",
@@ -26596,7 +26596,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "HSG1-p5600a",
@@ -26618,7 +26618,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "HSG1-Zr154a",
@@ -27968,7 +27968,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "HSd2G1-p1100b",
@@ -27989,7 +27989,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "HSd2G1-p15400",
@@ -28010,7 +28010,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "HSd2G1-p352",
@@ -28032,7 +28032,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "HSd2G1-Zr22",
@@ -29137,7 +29137,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J1G1-p1463",
@@ -29158,7 +29158,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J1G1-p1540",
@@ -29179,7 +29179,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J1G1-p1596",
@@ -29200,7 +29200,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J1G1-p266",
@@ -29221,7 +29221,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J1G1-p2926",
@@ -29242,7 +29242,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J1G1-p4180",
@@ -29264,7 +29264,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "J1G1-Zr112",
@@ -30978,7 +30978,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2J2G1-p200",
@@ -31934,7 +31934,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J2G1-p1008",
@@ -31955,7 +31955,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J2G1-p1800",
@@ -31976,7 +31976,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J2G1-p280",
@@ -31997,7 +31997,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J2G1-p315",
@@ -32018,7 +32018,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J2G1-p525",
@@ -32039,7 +32039,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J2G1-p840",
@@ -32061,7 +32061,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "J2G1-Ar14a",
@@ -34400,7 +34400,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J3G1-p14688b",
@@ -34421,7 +34421,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J3G1-p17442",
@@ -34442,7 +34442,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J3G1-p20520",
@@ -34463,7 +34463,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J3G1-p23256",
@@ -34484,7 +34484,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J3G1-p25840",
@@ -34505,7 +34505,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J3G1-p26163",
@@ -34526,7 +34526,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J3G1-p43605",
@@ -34547,7 +34547,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "J3G1-p6156",
@@ -34569,7 +34569,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "J3G1-Zr170",
@@ -36074,7 +36074,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2101G1-Ar102a",
@@ -36137,7 +36137,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2103G1-Ar104a",
@@ -36200,7 +36200,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2107G1-Ar108a",
@@ -36263,7 +36263,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2109G1-Ar110a",
@@ -36330,7 +36330,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2113G1-Ar114a",
@@ -36493,7 +36493,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L211G1-p11b",
@@ -36514,7 +36514,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L211G1-p12",
@@ -36535,7 +36535,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L211G1-p55",
@@ -36557,7 +36557,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L211G1-Ar12a",
@@ -37163,7 +37163,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L211d2G1-p22",
@@ -37184,7 +37184,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L211d2G1-p55a",
@@ -37205,7 +37205,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L211d2G1-p55b",
@@ -37226,7 +37226,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L211d2G1-p66",
@@ -37476,7 +37476,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2127G1-Ar128a",
@@ -37522,7 +37522,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2128G1-Ar129a",
@@ -37585,7 +37585,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2131G1-Ar132a",
@@ -38028,7 +38028,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L213G1-Ar12a",
@@ -38469,7 +38469,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L213d2G1-p78",
@@ -38490,7 +38490,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L213d2G1-p91a",
@@ -38614,7 +38614,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2137G1-Ar138a",
@@ -38677,7 +38677,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2139G1-Ar140a",
@@ -38740,7 +38740,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2149G1-Ar150a",
@@ -38803,7 +38803,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2151G1-Ar152a",
@@ -38866,7 +38866,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2157G1-Ar158a",
@@ -38933,7 +38933,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2163G1-Ar164a",
@@ -38987,7 +38987,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L216G1-Cr17b",
@@ -39715,7 +39715,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2167G1-Ar168a",
@@ -39782,7 +39782,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2173G1-Ar174a",
@@ -40077,7 +40077,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L217G1-Ar9a",
@@ -40690,7 +40690,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2179G1-Ar180a",
@@ -40753,7 +40753,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2181G1-Ar182a",
@@ -40816,7 +40816,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2191G1-Ar192a",
@@ -40883,7 +40883,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2193G1-Ar194a",
@@ -41052,7 +41052,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L219G1-p190",
@@ -41073,7 +41073,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L219G1-p20",
@@ -41094,7 +41094,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L219G1-p57a",
@@ -41115,7 +41115,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L219G1-p57b",
@@ -41137,7 +41137,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L219G1-Cr18a",
@@ -41911,7 +41911,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L219d2G1-p171",
@@ -41932,7 +41932,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L219d2G1-p190",
@@ -41953,7 +41953,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L219d2G1-p20",
@@ -41974,7 +41974,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L219d2G1-p285",
@@ -42056,7 +42056,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2197G1-Ar198a",
@@ -42119,7 +42119,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2199G1-Ar200a",
@@ -42182,7 +42182,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2211G1-Ar212a",
@@ -42245,7 +42245,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2223G1-Ar224a",
@@ -42308,7 +42308,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2227G1-Ar228a",
@@ -42371,7 +42371,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2229G1-Ar230a",
@@ -42438,7 +42438,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2233G1-Ar234a",
@@ -42544,7 +42544,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L223G1-Ar24a",
@@ -43228,7 +43228,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2239G1-Ar240a",
@@ -43291,7 +43291,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L2241G1-Ar242a",
@@ -43414,7 +43414,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L227G1-Ar13a",
@@ -43730,7 +43730,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L229G1-Ar30a",
@@ -44401,7 +44401,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L231G1-Ar32a",
@@ -44935,7 +44935,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L232G1-p496",
@@ -44956,7 +44956,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L232G1-p528",
@@ -44978,7 +44978,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L232G1-Ar33a",
@@ -45323,7 +45323,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L232d5G1-p496",
@@ -45344,7 +45344,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L232d5G1-p528",
@@ -45552,7 +45552,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L237G1-Ar38a",
@@ -45615,7 +45615,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L241G1-Ar42a",
@@ -45682,7 +45682,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L243G1-Ar44a",
@@ -45735,7 +45735,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2A5G1-p40",
@@ -45757,7 +45757,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2A5G1-Ar2a",
@@ -46224,7 +46224,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S5G1-p40b",
@@ -46245,7 +46245,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S5G1-p48",
@@ -46267,7 +46267,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2S5G1-Ar4b",
@@ -46450,7 +46450,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S5iG1-p80",
@@ -46472,7 +46472,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2S5iG1-Ar4a",
@@ -46671,7 +46671,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A5G1-p5",
@@ -46692,7 +46692,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A5G1-p6",
@@ -46714,7 +46714,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A5G1-Ar3a",
@@ -47026,7 +47026,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S5G1-p5",
@@ -47047,7 +47047,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S5G1-p6",
@@ -47234,7 +47234,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L247G1-Ar48a",
@@ -47335,7 +47335,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L249G1-p1225",
@@ -47356,7 +47356,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L249G1-p175a",
@@ -47377,7 +47377,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L249G1-p175b",
@@ -47398,7 +47398,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L249G1-p50",
@@ -47419,7 +47419,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L249G1-p980a",
@@ -47440,7 +47440,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L249G1-p980b",
@@ -47568,7 +47568,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L253G1-Ar54a",
@@ -47621,7 +47621,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2A5G1-p40",
@@ -47643,7 +47643,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2A5G1-Ar2a",
@@ -48110,7 +48110,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S5G1-p40b",
@@ -48131,7 +48131,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S5G1-p48",
@@ -48153,7 +48153,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2S5G1-Ar4b",
@@ -48336,7 +48336,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S5iG1-p80",
@@ -48358,7 +48358,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2S5iG1-Ar4a",
@@ -48557,7 +48557,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A5G1-p5",
@@ -48578,7 +48578,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A5G1-p6",
@@ -48600,7 +48600,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A5G1-Ar3a",
@@ -48912,7 +48912,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S5G1-p5",
@@ -48933,7 +48933,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S5G1-p6",
@@ -49120,7 +49120,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L259G1-Ar60a",
@@ -49183,7 +49183,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L261G1-Ar62a",
@@ -49229,7 +49229,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L264G1-Ar65a",
@@ -49292,7 +49292,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L267G1-Ar68a",
@@ -49355,7 +49355,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L271G1-Ar72a",
@@ -49422,7 +49422,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L273G1-Ar74a",
@@ -49475,7 +49475,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27G1-p16",
@@ -49496,7 +49496,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27G1-p336",
@@ -49517,7 +49517,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27G1-p48",
@@ -49754,7 +49754,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2G1-p32",
@@ -49775,7 +49775,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2G1-p672",
@@ -49796,7 +49796,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2G1-p96",
@@ -49843,7 +49843,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p112b",
@@ -49864,7 +49864,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p16a",
@@ -49885,7 +49885,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p16b",
@@ -49906,7 +49906,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p224",
@@ -49927,7 +49927,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p32",
@@ -49948,7 +49948,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p336",
@@ -49969,7 +49969,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p48a",
@@ -49990,7 +49990,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p48b",
@@ -50011,7 +50011,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p672",
@@ -50032,7 +50032,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p96",
@@ -50079,7 +50079,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p14b",
@@ -50100,7 +50100,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p168",
@@ -50121,7 +50121,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p21",
@@ -50142,7 +50142,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p24",
@@ -50163,7 +50163,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p28",
@@ -50184,7 +50184,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p42a",
@@ -50205,7 +50205,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p42b",
@@ -50226,7 +50226,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p42c",
@@ -50247,7 +50247,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p56",
@@ -50268,7 +50268,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p7a",
@@ -50289,7 +50289,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p7b",
@@ -50310,7 +50310,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p8",
@@ -50331,7 +50331,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p84",
@@ -50353,7 +50353,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L27G1-Ar3a",
@@ -50683,7 +50683,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p14",
@@ -50704,7 +50704,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p16",
@@ -50725,7 +50725,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p168a",
@@ -50746,7 +50746,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p168b",
@@ -50767,7 +50767,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p21",
@@ -50788,7 +50788,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p24",
@@ -50809,7 +50809,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p28",
@@ -50830,7 +50830,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p28b",
@@ -50851,7 +50851,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p336",
@@ -50872,7 +50872,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p42a",
@@ -50893,7 +50893,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p42b",
@@ -50914,7 +50914,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p42c",
@@ -50935,7 +50935,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p48",
@@ -50956,7 +50956,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p56a",
@@ -50977,7 +50977,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p56b",
@@ -50998,7 +50998,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p56c",
@@ -51019,7 +51019,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p8",
@@ -51040,7 +51040,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p84a",
@@ -51061,7 +51061,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p84b",
@@ -51082,7 +51082,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p84c",
@@ -51142,7 +51142,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L279G1-Ar80a",
@@ -51209,7 +51209,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L283G1-Ar84a",
@@ -51262,7 +51262,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L28G1-p36",
@@ -51283,7 +51283,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L28G1-p9",
@@ -51305,7 +51305,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L28G1-Ar7b",
@@ -51803,7 +51803,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L28d3G1-p36",
@@ -51824,7 +51824,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L28d3G1-p9",
@@ -51846,7 +51846,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L28d3G1-Zr21",
@@ -52114,7 +52114,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L289G1-Ar90a",
@@ -52168,7 +52168,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2A6G1-p240a",
@@ -52189,7 +52189,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2A6G1-p240b",
@@ -52210,7 +52210,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2A6G1-p80",
@@ -52232,7 +52232,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2A6G1-Ar4",
@@ -52526,7 +52526,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S6G1-p288",
@@ -52547,7 +52547,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S6G1-p80",
@@ -52594,7 +52594,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3A6G1-p18b",
@@ -52615,7 +52615,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3A6G1-p45a",
@@ -52636,7 +52636,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3A6G1-p45b",
@@ -52658,7 +52658,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "3A6G1-Ar15",
@@ -52985,7 +52985,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3S6G1-p18b",
@@ -53006,7 +53006,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3S6G1-p45a",
@@ -53027,7 +53027,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3S6G1-p45b",
@@ -53074,7 +53074,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "6A6G1-p720a",
@@ -53096,7 +53096,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "6A6G1-Ar12",
@@ -53290,7 +53290,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A6G1-p15a",
@@ -53311,7 +53311,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A6G1-p15b",
@@ -53332,7 +53332,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A6G1-p6a",
@@ -53353,7 +53353,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A6G1-p6b",
@@ -53375,7 +53375,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A6G1-Ar8a",
@@ -53879,7 +53879,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S6G1-p15a",
@@ -53900,7 +53900,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S6G1-p15b",
@@ -53921,7 +53921,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S6G1-p6a",
@@ -53942,7 +53942,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S6G1-p6b",
@@ -54002,7 +54002,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L297G1-Ar98a",
@@ -54057,7 +54057,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L311G1-Ar133b",
@@ -54358,7 +54358,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L313G1-p183b",
@@ -54380,7 +54380,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L313G1-Ar183b",
@@ -54470,7 +54470,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27G1-p16",
@@ -54491,7 +54491,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27G1-p336",
@@ -54512,7 +54512,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27G1-p48",
@@ -54749,7 +54749,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2G1-p32",
@@ -54770,7 +54770,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2G1-p672",
@@ -54791,7 +54791,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2G1-p96",
@@ -54838,7 +54838,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p112b",
@@ -54859,7 +54859,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p16a",
@@ -54880,7 +54880,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p16b",
@@ -54901,7 +54901,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p224",
@@ -54922,7 +54922,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p32",
@@ -54943,7 +54943,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p336",
@@ -54964,7 +54964,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p48a",
@@ -54985,7 +54985,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p48b",
@@ -55006,7 +55006,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p672",
@@ -55027,7 +55027,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L27d2iG1-p96",
@@ -55074,7 +55074,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p14b",
@@ -55095,7 +55095,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p168",
@@ -55116,7 +55116,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p21",
@@ -55137,7 +55137,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p24",
@@ -55158,7 +55158,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p28",
@@ -55179,7 +55179,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p42a",
@@ -55200,7 +55200,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p42b",
@@ -55221,7 +55221,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p42c",
@@ -55242,7 +55242,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p56",
@@ -55263,7 +55263,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p7a",
@@ -55284,7 +55284,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p7b",
@@ -55305,7 +55305,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p8",
@@ -55326,7 +55326,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27G1-p84",
@@ -55348,7 +55348,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L27G1-Ar3a",
@@ -55678,7 +55678,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p14",
@@ -55699,7 +55699,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p16",
@@ -55720,7 +55720,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p168a",
@@ -55741,7 +55741,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p168b",
@@ -55762,7 +55762,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p21",
@@ -55783,7 +55783,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p24",
@@ -55804,7 +55804,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p28",
@@ -55825,7 +55825,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p28b",
@@ -55846,7 +55846,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p336",
@@ -55867,7 +55867,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p42a",
@@ -55888,7 +55888,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p42b",
@@ -55909,7 +55909,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p42c",
@@ -55930,7 +55930,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p48",
@@ -55951,7 +55951,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p56a",
@@ -55972,7 +55972,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p56b",
@@ -55993,7 +55993,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p56c",
@@ -56014,7 +56014,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p8",
@@ -56035,7 +56035,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p84a",
@@ -56056,7 +56056,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p84b",
@@ -56077,7 +56077,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L27d2G1-p84c",
@@ -56128,7 +56128,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L33G1-p13b",
@@ -56149,7 +56149,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L33G1-p144",
@@ -56170,7 +56170,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L33G1-p234",
@@ -56192,7 +56192,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L33G1-Ar26b",
@@ -56705,7 +56705,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L33d2G1-p144",
@@ -56726,7 +56726,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L33d2G1-p234",
@@ -56747,7 +56747,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L33d2G1-p26",
@@ -56768,7 +56768,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L33d2G1-p52",
@@ -57576,7 +57576,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L34G1-p112b",
@@ -57597,7 +57597,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L34G1-p112c",
@@ -57618,7 +57618,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L34G1-p240a",
@@ -57639,7 +57639,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L34G1-p240b",
@@ -57660,7 +57660,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2L34G1-p240c",
@@ -58511,7 +58511,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3L34G1-p360b",
@@ -58532,7 +58532,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3L34G1-p360c",
@@ -58553,7 +58553,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3L34G1-p63a",
@@ -58574,7 +58574,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3L34G1-p63b",
@@ -59341,7 +59341,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "4aL34G1-p480",
@@ -59645,7 +59645,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "4bL34G1-p480",
@@ -60601,7 +60601,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "6L34G1-p720b",
@@ -60622,7 +60622,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "6L34G1-p720c",
@@ -60644,7 +60644,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "6L34G1-Ar6a",
@@ -60858,7 +60858,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L34G1-p120b",
@@ -60879,7 +60879,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L34G1-p120c",
@@ -60900,7 +60900,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L34G1-p21a",
@@ -60921,7 +60921,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L34G1-p21b",
@@ -60942,7 +60942,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L34G1-p280",
@@ -60963,7 +60963,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L34G1-p56a",
@@ -60984,7 +60984,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L34G1-p56b",
@@ -61005,7 +61005,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L34G1-p56c",
@@ -61027,7 +61027,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L34G1-Ar63a",
@@ -62284,7 +62284,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L35G1-p31b",
@@ -62306,7 +62306,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L35G1-Ar124c",
@@ -62624,7 +62624,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L35d2G1-p3100",
@@ -62645,7 +62645,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L35d2G1-p3875",
@@ -62666,7 +62666,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L35d2G1-p4000",
@@ -62687,7 +62687,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L35d2G1-p62",
@@ -62708,7 +62708,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L35d2G1-p775",
@@ -62855,7 +62855,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L37G1-Zr152a",
@@ -63581,7 +63581,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38G1-p73a",
@@ -63602,7 +63602,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38G1-p73b",
@@ -63623,7 +63623,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38G1-p75264",
@@ -63644,7 +63644,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38G1-p98112",
@@ -63666,7 +63666,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L38G1-Ar73a",
@@ -64278,7 +64278,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38d2G1-p4672",
@@ -64299,7 +64299,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38d2G1-p56064",
@@ -64320,7 +64320,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38d2G1-p657",
@@ -64341,7 +64341,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38d2G1-p75264",
@@ -64362,7 +64362,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38d2G1-p98112",
@@ -64872,7 +64872,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38d3G1-p219b",
@@ -64893,7 +64893,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38d3G1-p56064",
@@ -64914,7 +64914,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38d3G1-p73a",
@@ -64935,7 +64935,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38d3G1-p73b",
@@ -64956,7 +64956,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38d3G1-p75264",
@@ -64977,7 +64977,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38d3G1-p98112",
@@ -65466,7 +65466,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38d6G1-p4672",
@@ -65487,7 +65487,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38d6G1-p56064",
@@ -65508,7 +65508,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38d6G1-p657",
@@ -65529,7 +65529,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38d6G1-p75264",
@@ -65550,7 +65550,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L38d6G1-p98112",
@@ -66043,7 +66043,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2A8G1-p240b",
@@ -66064,7 +66064,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2A8G1-p240c",
@@ -66086,7 +66086,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2A8G1-Cr24a",
@@ -66593,7 +66593,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A8G1-p15b",
@@ -66614,7 +66614,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A8G1-p8",
@@ -66636,7 +66636,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A8G1-Cr21b",
@@ -67243,7 +67243,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L44G1-p85b",
@@ -67265,7 +67265,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L44G1-Ar85a",
@@ -67367,7 +67367,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L45G1-p156b",
@@ -67389,7 +67389,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L45G1-Zr155",
@@ -67431,7 +67431,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L52G1-p31a",
@@ -67453,7 +67453,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L52G1-Zr124",
@@ -67907,7 +67907,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L52d2G1-Ar30",
@@ -68101,7 +68101,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L62G1-Zr217",
@@ -68918,7 +68918,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L72G1-p127b",
@@ -68940,7 +68940,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L72G1-Zr126",
@@ -69880,7 +69880,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M11G1-p12",
@@ -69901,7 +69901,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M11G1-p165",
@@ -69922,7 +69922,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M11G1-p55",
@@ -69943,7 +69943,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M11G1-p66",
@@ -69965,7 +69965,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "M11G1-Ar10b",
@@ -70720,7 +70720,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2M12G1-Zr120",
@@ -71293,7 +71293,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M12G1-p12b",
@@ -71314,7 +71314,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M12G1-p66a",
@@ -71335,7 +71335,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M12G1-p66b",
@@ -71357,7 +71357,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "M12G1-Cr16a",
@@ -72876,7 +72876,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2aM20G1-p12b",
@@ -72897,7 +72897,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2aM20G1-p20a",
@@ -72918,7 +72918,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2aM20G1-p20b",
@@ -72940,7 +72940,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2aM20G1-Ar12a",
@@ -73193,7 +73193,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M20G1-p20b",
@@ -73214,7 +73214,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M20G1-p20c",
@@ -73235,7 +73235,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M20G1-p20d",
@@ -73780,7 +73780,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2M22G1-p660",
@@ -73802,7 +73802,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2M22G1-Cr10a",
@@ -74782,7 +74782,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3M22G1-p693",
@@ -74803,7 +74803,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3M22G1-p990",
@@ -74825,7 +74825,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "3M22G1-Cr21a",
@@ -75646,7 +75646,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "4M22G1-p4928b",
@@ -76907,7 +76907,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22G1-p176b",
@@ -76928,7 +76928,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22G1-p22",
@@ -76949,7 +76949,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22G1-p231",
@@ -76970,7 +76970,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22G1-p330",
@@ -76991,7 +76991,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22G1-p462a",
@@ -77012,7 +77012,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22G1-p462b",
@@ -77033,7 +77033,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22G1-p462c",
@@ -77054,7 +77054,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22G1-p616",
@@ -77075,7 +77075,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22G1-p672",
@@ -77096,7 +77096,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22G1-p770",
@@ -77117,7 +77117,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22G1-p77",
@@ -77139,7 +77139,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "M22G1-Cr45a",
@@ -78102,7 +78102,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22d2G1-p231",
@@ -78123,7 +78123,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22d2G1-p330",
@@ -78144,7 +78144,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22d2G1-p352",
@@ -78165,7 +78165,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22d2G1-p616",
@@ -78186,7 +78186,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22d2G1-p672",
@@ -78207,7 +78207,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M22d2G1-p77",
@@ -79078,7 +79078,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M23G1-p1771",
@@ -79099,7 +79099,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M23G1-p23",
@@ -79120,7 +79120,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M23G1-p253a",
@@ -79141,7 +79141,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M23G1-p253b",
@@ -79162,7 +79162,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M23G1-p40320",
@@ -79183,7 +79183,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M23G1-p506",
@@ -79205,7 +79205,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "M23G1-Cr231b",
@@ -80496,7 +80496,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M24G1-p1771",
@@ -80517,7 +80517,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M24G1-p2024",
@@ -80538,7 +80538,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M24G1-p24",
@@ -80559,7 +80559,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M24G1-p276",
@@ -80580,7 +80580,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M24G1-p3795",
@@ -80601,7 +80601,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "M24G1-p759",
@@ -80623,7 +80623,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "M24G1-Cr231a",
@@ -81851,7 +81851,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3McLG1-p340200",
@@ -81872,7 +81872,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3McLG1-p66825",
@@ -82303,7 +82303,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "McLG1-p15400a",
@@ -82324,7 +82324,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "McLG1-p15400b",
@@ -82345,7 +82345,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "McLG1-p2025a",
@@ -82366,7 +82366,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "McLG1-p2025b",
@@ -82387,7 +82387,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "McLG1-p22275a",
@@ -82408,7 +82408,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "McLG1-p22275b",
@@ -82429,7 +82429,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "McLG1-p22275c",
@@ -82450,7 +82450,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "McLG1-p22275d",
@@ -82471,7 +82471,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "McLG1-p275",
@@ -82492,7 +82492,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "McLG1-p299376",
@@ -82513,7 +82513,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "McLG1-p7128",
@@ -82535,7 +82535,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "McLG1-Zr22",
@@ -83282,7 +83282,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "McLd2G1-p275",
@@ -83303,7 +83303,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "McLd2G1-p4050",
@@ -83324,7 +83324,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "McLd2G1-p44550",
@@ -83345,7 +83345,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "McLd2G1-p7128",
@@ -83901,7 +83901,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O10m2G1-p528",
@@ -83923,7 +83923,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "O10m2G1-Zr154",
@@ -84121,7 +84121,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O10m2d2G1-p495",
@@ -84142,7 +84142,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O10m2d2G1-p528",
@@ -84320,7 +84320,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O10p2G1-p2295a",
@@ -84341,7 +84341,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O10p2G1-p2295b",
@@ -84362,7 +84362,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O10p2G1-p23715",
@@ -84383,7 +84383,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O10p2G1-p39680",
@@ -84404,7 +84404,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O10p2G1-p496",
@@ -84425,7 +84425,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O10p2G1-p527",
@@ -84447,7 +84447,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "O10p2G1-Zr155",
@@ -84813,7 +84813,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O10p2d2G1-p496",
@@ -84834,7 +84834,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O10p2d2G1-p527",
@@ -85201,7 +85201,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O73G1-p1080b",
@@ -85222,7 +85222,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O73G1-p1120",
@@ -85243,7 +85243,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O73G1-p351",
@@ -85264,7 +85264,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O73G1-p3640",
@@ -85285,7 +85285,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O73G1-p364",
@@ -85306,7 +85306,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O73G1-p378",
@@ -85328,7 +85328,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "O73G1-Zr105",
@@ -85815,7 +85815,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8m2G1-p119",
@@ -85836,7 +85836,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8m2G1-p136",
@@ -85857,7 +85857,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8m2G1-p1632",
@@ -85878,7 +85878,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8m2G1-p24192",
@@ -85899,7 +85899,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8m2G1-p45696",
@@ -85920,7 +85920,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8m2G1-p765",
@@ -85942,7 +85942,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "O8m2G1-Zr204a",
@@ -86596,7 +86596,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "O8m3G1-Zr246",
@@ -86704,7 +86704,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8m3d2cG2-p1066",
@@ -87016,7 +87016,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2O8p3G1-p2160b",
@@ -87037,7 +87037,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2O8p3G1-p2240",
@@ -87237,7 +87237,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8p3G1-p1080b",
@@ -87258,7 +87258,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8p3G1-p1080c",
@@ -87279,7 +87279,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8p3G1-p1080d",
@@ -87300,7 +87300,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8p3G1-p1080e",
@@ -87321,7 +87321,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8p3G1-p1080f",
@@ -87342,7 +87342,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8p3G1-p1120a",
@@ -87363,7 +87363,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8p3G1-p1120b",
@@ -87384,7 +87384,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8p3G1-p1120c",
@@ -87405,7 +87405,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8p3G1-p28431a",
@@ -87426,7 +87426,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8p3G1-p28431b",
@@ -87447,7 +87447,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8p3G1-p28431c",
@@ -87468,7 +87468,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8p3G1-p28431d",
@@ -87489,7 +87489,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8p3G1-p36400",
@@ -87873,7 +87873,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "O8p3S4G2-p6480",
@@ -88732,7 +88732,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L28G1-p36",
@@ -88753,7 +88753,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L28G1-p9",
@@ -88775,7 +88775,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L28G1-Ar7b",
@@ -89273,7 +89273,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L28d3G1-p36",
@@ -89294,7 +89294,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "L28d3G1-p9",
@@ -89316,7 +89316,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "L28d3G1-Zr21",
@@ -90197,7 +90197,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S102G1-p1056",
@@ -90218,7 +90218,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S102G1-p496",
@@ -90239,7 +90239,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S102G1-p528",
@@ -90260,7 +90260,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S102G1-p992",
@@ -90282,7 +90282,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S102G1-Zr155",
@@ -90597,7 +90597,7 @@
           { "type" : "format",
             "name" : "gap"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S411G1-p1464b",
@@ -90609,7 +90609,7 @@
           { "type" : "format",
             "name" : "gap"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S411G1-p2928",
@@ -90622,7 +90622,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S411G1-Cr61a",
@@ -90705,7 +90705,7 @@
           { "type" : "format",
             "name" : "gap"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S413G1-p2380b",
@@ -90717,7 +90717,7 @@
           { "type" : "format",
             "name" : "gap"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S413G1-p4760",
@@ -90730,7 +90730,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S413G1-Zr170",
@@ -90789,7 +90789,7 @@
           { "type" : "format",
             "name" : "gap"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S417G1-p5220a",
@@ -90801,7 +90801,7 @@
           { "type" : "format",
             "name" : "gap"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S417G1-p5220b",
@@ -90814,7 +90814,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S417G1-Zr290",
@@ -90873,7 +90873,7 @@
           { "type" : "format",
             "name" : "gap"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S419G1-p7240a",
@@ -90885,7 +90885,7 @@
           { "type" : "format",
             "name" : "gap"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S419G1-p7240b",
@@ -90898,7 +90898,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S419G1-Zr362",
@@ -90940,7 +90940,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2A6G1-p240a",
@@ -90961,7 +90961,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2A6G1-p240b",
@@ -90982,7 +90982,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2A6G1-p80",
@@ -91004,7 +91004,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2A6G1-Ar4",
@@ -91298,7 +91298,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S6G1-p288",
@@ -91319,7 +91319,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S6G1-p80",
@@ -91366,7 +91366,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3A6G1-p18b",
@@ -91387,7 +91387,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3A6G1-p45a",
@@ -91408,7 +91408,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3A6G1-p45b",
@@ -91430,7 +91430,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "3A6G1-Ar15",
@@ -91757,7 +91757,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3S6G1-p18b",
@@ -91778,7 +91778,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3S6G1-p45a",
@@ -91799,7 +91799,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3S6G1-p45b",
@@ -91846,7 +91846,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "6A6G1-p720a",
@@ -91868,7 +91868,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "6A6G1-Ar12",
@@ -92062,7 +92062,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A6G1-p15a",
@@ -92083,7 +92083,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A6G1-p15b",
@@ -92104,7 +92104,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A6G1-p6a",
@@ -92125,7 +92125,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "A6G1-p6b",
@@ -92147,7 +92147,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "A6G1-Ar8a",
@@ -92651,7 +92651,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S6G1-p15a",
@@ -92672,7 +92672,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S6G1-p15b",
@@ -92693,7 +92693,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S6G1-p6a",
@@ -92714,7 +92714,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S6G1-p6b",
@@ -92765,7 +92765,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2U42G1-p80",
@@ -92787,7 +92787,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2U42G1-Ar20a",
@@ -93033,7 +93033,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U42G1-p36",
@@ -93054,7 +93054,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U42G1-p40a",
@@ -93075,7 +93075,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U42G1-p40b",
@@ -93096,7 +93096,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U42G1-p45",
@@ -93118,7 +93118,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U42G1-Ar10",
@@ -93618,7 +93618,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U42d2G1-p36",
@@ -93639,7 +93639,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U42d2G1-p40a",
@@ -93660,7 +93660,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U42d2G1-p40b",
@@ -93681,7 +93681,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U42d2G1-p45",
@@ -93703,7 +93703,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U42d2G1-Zr6a",
@@ -93891,7 +93891,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S44G1-p85a",
@@ -93913,7 +93913,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S44G1-Ar204a",
@@ -94447,7 +94447,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S45G1-p156b",
@@ -94468,7 +94468,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S45G1-p300",
@@ -94489,7 +94489,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S45G1-p325",
@@ -94511,7 +94511,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S45G1-Ar13a",
@@ -94977,7 +94977,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S47G1-p1225",
@@ -94998,7 +94998,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S47G1-p400a",
@@ -95019,7 +95019,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S47G1-p400b",
@@ -95041,7 +95041,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S47G1-Ar25a",
@@ -95161,7 +95161,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S47d2G1-p400b",
@@ -95251,7 +95251,7 @@
           { "type" : "format",
             "name" : "gap"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S49G1-p820a",
@@ -95263,7 +95263,7 @@
           { "type" : "format",
             "name" : "gap"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S49G1-p820b",
@@ -95276,7 +95276,7 @@
             "name" : "gap"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S49G1-Zr41a",
@@ -95330,7 +95330,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S62G1-p2160",
@@ -95351,7 +95351,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S62G1-p240a",
@@ -95372,7 +95372,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S62G1-p240b",
@@ -95393,7 +95393,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2S62G1-p480",
@@ -95415,7 +95415,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2S62G1-Zr8",
@@ -95583,7 +95583,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S62G1-p126",
@@ -95604,7 +95604,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S62G1-p135",
@@ -95625,7 +95625,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S62G1-p240",
@@ -95646,7 +95646,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S62G1-p28",
@@ -95667,7 +95667,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S62G1-p288",
@@ -95688,7 +95688,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S62G1-p315",
@@ -95709,7 +95709,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S62G1-p336",
@@ -95730,7 +95730,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S62G1-p36",
@@ -95751,7 +95751,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S62G1-p378a",
@@ -95772,7 +95772,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S62G1-p378b",
@@ -95793,7 +95793,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S62G1-p56",
@@ -95814,7 +95814,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S62G1-p63",
@@ -95835,7 +95835,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S62G1-p72",
@@ -95856,7 +95856,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S62G1-p960",
@@ -95878,7 +95878,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S62G1-Qr7",
@@ -96714,7 +96714,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S63G1-p3640",
@@ -96735,7 +96735,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S63G1-p364",
@@ -96756,7 +96756,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S63G1-p7371",
@@ -96778,7 +96778,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S63G1-Ar13a",
@@ -96985,7 +96985,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S63d2G1-p3640",
@@ -97006,7 +97006,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S63d2G1-p364",
@@ -97027,7 +97027,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S63d2G1-p7371",
@@ -97122,7 +97122,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S65G1-Cr63a",
@@ -97176,7 +97176,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S82G1-p136",
@@ -97197,7 +97197,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S82G1-p2295",
@@ -97218,7 +97218,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S82G1-p240",
@@ -97239,7 +97239,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S82G1-p255",
@@ -97260,7 +97260,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S82G1-p272",
@@ -97281,7 +97281,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "S82G1-p5355",
@@ -97303,7 +97303,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S82G1-Zr119",
@@ -97650,7 +97650,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "S83G1-Cr41a",
@@ -97820,7 +97820,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3SuzG1-p5346",
@@ -97841,7 +97841,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3SuzG1-p98280",
@@ -98284,7 +98284,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "SuzG1-p1782",
@@ -98305,7 +98305,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "SuzG1-p22880",
@@ -98326,7 +98326,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "SuzG1-p232960",
@@ -98347,7 +98347,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "SuzG1-p32760",
@@ -98368,7 +98368,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "SuzG1-p370656",
@@ -98389,7 +98389,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "SuzG1-p405405",
@@ -98411,7 +98411,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "SuzG1-Zr143",
@@ -99027,7 +99027,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "Sz32G1-p198400",
@@ -99049,7 +99049,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "Sz32G1-Cr124a",
@@ -99500,7 +99500,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "Sz8G1-p2080",
@@ -99521,7 +99521,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "Sz8G1-p520",
@@ -99542,7 +99542,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "Sz8G1-p560",
@@ -99563,7 +99563,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "Sz8G1-p65",
@@ -99585,7 +99585,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "Sz8G1-Ar14a",
@@ -100212,7 +100212,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "Sz8d3G1-p2080",
@@ -100233,7 +100233,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "Sz8d3G1-p520",
@@ -100254,7 +100254,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "Sz8d3G1-p560",
@@ -100275,7 +100275,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "Sz8d3G1-p65",
@@ -100517,7 +100517,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "TD42G1-Zr196",
@@ -101582,7 +101582,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "TF42G1-p14976",
@@ -101603,7 +101603,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "TF42G1-p1600",
@@ -101624,7 +101624,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "TF42G1-p1755",
@@ -101645,7 +101645,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "TF42G1-p2304",
@@ -101666,7 +101666,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "TF42G1-p2925",
@@ -101688,7 +101688,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "TF42G1-Cr26a",
@@ -102312,7 +102312,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "TF42d2G1-p2304",
@@ -102909,7 +102909,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U311G1-Zr111a",
@@ -103207,7 +103207,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U33G1-p36",
@@ -103228,7 +103228,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U33G1-p63a",
@@ -103249,7 +103249,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U33G1-p63b",
@@ -103271,7 +103271,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U33G1-Ar21b",
@@ -104058,7 +104058,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U34G1-p208",
@@ -104079,7 +104079,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U34G1-p416",
@@ -104100,7 +104100,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U34G1-p65",
@@ -104122,7 +104122,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U34G1-Ar12",
@@ -105316,7 +105316,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U34d2G1-p208",
@@ -105337,7 +105337,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U34d2G1-p416",
@@ -105358,7 +105358,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U34d2G1-p65",
@@ -105405,7 +105405,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U34d4G1-p208",
@@ -105426,7 +105426,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U34d4G1-p416",
@@ -105447,7 +105447,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U34d4G1-p65",
@@ -106000,7 +106000,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U35G1-Cr20",
@@ -106158,7 +106158,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U35d2G1-p175",
@@ -106179,7 +106179,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U35d2G1-p50",
@@ -106200,7 +106200,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U35d2G1-p525",
@@ -106221,7 +106221,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U35d2G1-p750",
@@ -106861,7 +106861,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U37G1-p1376",
@@ -106882,7 +106882,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U37G1-p14749",
@@ -106903,7 +106903,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U37G1-p16856",
@@ -106924,7 +106924,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U37G1-p2064",
@@ -106945,7 +106945,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U37G1-p2107",
@@ -106966,7 +106966,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U37G1-p344",
@@ -106987,7 +106987,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U37G1-p43904",
@@ -107008,7 +107008,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U37G1-p688",
@@ -107030,7 +107030,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U37G1-Cr43b",
@@ -107454,7 +107454,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3U38G1-p4617",
@@ -107523,7 +107523,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U38G1-p513",
@@ -107545,7 +107545,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U38G1-Cr57a",
@@ -107665,7 +107665,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U38d2G1-p513",
@@ -107712,7 +107712,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U38d3aG1-p513",
@@ -107759,7 +107759,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U38d3bG1-p513",
@@ -107806,7 +107806,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U38d3cG1-p513",
@@ -107853,7 +107853,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U38d6G1-p513",
@@ -108090,7 +108090,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U38E9G1-p513",
@@ -108137,7 +108137,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U38S3G1-p513",
@@ -108184,7 +108184,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U38S3x3G1-p513",
@@ -108236,7 +108236,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U39G1-Zr73a",
@@ -108278,7 +108278,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2U42G1-p80",
@@ -108300,7 +108300,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "2U42G1-Ar20a",
@@ -108546,7 +108546,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U42G1-p36",
@@ -108567,7 +108567,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U42G1-p40a",
@@ -108588,7 +108588,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U42G1-p40b",
@@ -108609,7 +108609,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U42G1-p45",
@@ -108631,7 +108631,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U42G1-Ar10",
@@ -109131,7 +109131,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U42d2G1-p36",
@@ -109152,7 +109152,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U42d2G1-p40a",
@@ -109173,7 +109173,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U42d2G1-p40b",
@@ -109194,7 +109194,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U42d2G1-p45",
@@ -109216,7 +109216,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U42d2G1-Zr6a",
@@ -109430,7 +109430,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "9U43D8G1-p756b",
@@ -109451,7 +109451,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "9U43D8G1-p972",
@@ -109587,7 +109587,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U43D8G1-p1134",
@@ -109608,7 +109608,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U43D8G1-p252",
@@ -109629,7 +109629,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U43D8G1-p280",
@@ -109650,7 +109650,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U43D8G1-p2835",
@@ -109671,7 +109671,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U43D8G1-p324",
@@ -109692,7 +109692,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U43D8G1-p4536",
@@ -109713,7 +109713,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U43D8G1-p5184",
@@ -109734,7 +109734,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U43D8G1-p540",
@@ -109755,7 +109755,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U43D8G1-p8505",
@@ -109776,7 +109776,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U43D8G1-p9072",
@@ -109827,7 +109827,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U44G1-p1105",
@@ -109848,7 +109848,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U44G1-p325",
@@ -109869,7 +109869,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U44G1-p3264",
@@ -109891,7 +109891,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U44G1-Zr442",
@@ -109945,7 +109945,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U45G1-p756",
@@ -109967,7 +109967,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U45G1-Zr105",
@@ -110009,7 +110009,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U52G1-p165",
@@ -110030,7 +110030,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U52G1-p176",
@@ -110051,7 +110051,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U52G1-p20736",
@@ -110072,7 +110072,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U52G1-p297",
@@ -110093,7 +110093,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U52G1-p3520",
@@ -110115,7 +110115,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U52G1-Ar10",
@@ -110735,7 +110735,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U52d2G1-p165",
@@ -110756,7 +110756,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U52d2G1-p176",
@@ -110777,7 +110777,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U52d2G1-p20736",
@@ -110798,7 +110798,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U52d2G1-p297",
@@ -110819,7 +110819,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U52d2G1-p3520",
@@ -110841,7 +110841,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U52d2G1-Zr22",
@@ -111376,7 +111376,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U54G1-p52480",
@@ -111427,7 +111427,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "12U62G1-p8064",
@@ -111496,7 +111496,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2U62G1-p12672b",
@@ -111517,7 +111517,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2U62G1-p12672c",
@@ -111538,7 +111538,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2U62G1-p1344",
@@ -111559,7 +111559,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2U62G1-p2816a",
@@ -111580,7 +111580,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2U62G1-p2816b",
@@ -111601,7 +111601,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2U62G1-p41472",
@@ -111622,7 +111622,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "2U62G1-p5632",
@@ -111922,7 +111922,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3U62G1-p19008a",
@@ -111943,7 +111943,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3U62G1-p19008b",
@@ -111964,7 +111964,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3U62G1-p19008c",
@@ -111985,7 +111985,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3U62G1-p2016",
@@ -112006,7 +112006,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "3U62G1-p2079",
@@ -112500,7 +112500,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "6U62G1-p38016b",
@@ -112521,7 +112521,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "6U62G1-p38016c",
@@ -112542,7 +112542,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "6U62G1-p4032",
@@ -112674,7 +112674,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p1408a",
@@ -112695,7 +112695,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p1408b",
@@ -112716,7 +112716,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p1408c",
@@ -112737,7 +112737,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p20736a",
@@ -112758,7 +112758,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p20736b",
@@ -112779,7 +112779,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p20736c",
@@ -112800,7 +112800,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p2816a",
@@ -112821,7 +112821,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p2816b",
@@ -112842,7 +112842,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p2816c",
@@ -112863,7 +112863,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p59136",
@@ -112884,7 +112884,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p6237",
@@ -112905,7 +112905,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p6336a",
@@ -112926,7 +112926,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p6336b",
@@ -112947,7 +112947,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p6336c",
@@ -112968,7 +112968,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p672",
@@ -112989,7 +112989,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p693",
@@ -113010,7 +113010,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62G1-p891",
@@ -113032,7 +113032,7 @@
             "name" : "mtx"
           } ]
         } ]
-      } ]
+      } ],
       "char0Reps" : [
       { "type" : "char0Rep",
         "name" : "U62G1-Zr22",
@@ -113650,7 +113650,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62d2G1-p20736",
@@ -113671,7 +113671,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62d2G1-p6237",
@@ -113692,7 +113692,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62d2G1-p6336",
@@ -113713,7 +113713,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62d2G1-p672",
@@ -113734,7 +113734,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62d2G1-p693",
@@ -113755,7 +113755,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62d2G1-p891",
@@ -114055,7 +114055,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U62S3G1-p891",
@@ -114401,7 +114401,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U63G1-p44226",
@@ -114452,7 +114452,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U72G1-p2752",
@@ -114546,7 +114546,7 @@
           { "type" : "format",
             "name" : "mtx"
           } ]
-        } ]
+        } ],
       },
       { "type" : "permRep",
         "name" : "U82G1-p10965",
