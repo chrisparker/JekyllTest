@@ -910,7 +910,7 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "A10G1-Zr90",
+        "name" : "A10G1-Zr9",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -922,7 +922,7 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "A10G1-Zr9",
+        "name" : "A10G1-Zr90",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -935,7 +935,7 @@
       } ],
       "modularReps" : [ 
       { "type" : "modularRep",
-        "name" : "A10G1-f2r160",
+        "name" : "A10G1-f2r16",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -956,7 +956,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "A10G1-f2r16",
+        "name" : "A10G1-f2r160",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -1292,7 +1292,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "A10G1-f3r90",
+        "name" : "A10G1-f3r9",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -1313,7 +1313,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "A10G1-f3r9",
+        "name" : "A10G1-f3r90",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -2765,7 +2765,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "A11G1-f2r100",
+        "name" : "A11G1-f2r10",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -2786,7 +2786,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "A11G1-f2r10",
+        "name" : "A11G1-f2r100",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -3825,7 +3825,7 @@
       } ],
       "modularReps" : [ 
       { "type" : "modularRep",
-        "name" : "A12G1-f2r100",
+        "name" : "A12G1-f2r10",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -3846,7 +3846,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "A12G1-f2r10",
+        "name" : "A12G1-f2r100",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -7418,7 +7418,7 @@
       "name" : "A21",
       "permReps" : [
       { "type" : "permRep",
-        "name" : "A21G1-p210",
+        "name" : "A21G1-p21",
         "generators" : "G1",
         "bases" : [
         { "type" : "basis",
@@ -7439,7 +7439,7 @@
         } ]
       },
       { "type" : "permRep",
-        "name" : "A21G1-p21",
+        "name" : "A21G1-p210",
         "generators" : "G1",
         "bases" : [
         { "type" : "basis",
@@ -7502,7 +7502,7 @@
       "name" : "S21",
       "permReps" : [
       { "type" : "permRep",
-        "name" : "S21G1-p210",
+        "name" : "S21G1-p21",
         "generators" : "G1",
         "bases" : [
         { "type" : "basis",
@@ -7523,7 +7523,7 @@
         } ]
       },
       { "type" : "permRep",
-        "name" : "S21G1-p21",
+        "name" : "S21G1-p210",
         "generators" : "G1",
         "bases" : [
         { "type" : "basis",
@@ -7645,7 +7645,7 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "A22G1-Zr210",
+        "name" : "A22G1-Zr21",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -7657,7 +7657,7 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "A22G1-Zr21",
+        "name" : "A22G1-Zr210",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -7729,7 +7729,7 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "S22G1-Zr210",
+        "name" : "S22G1-Zr21",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -7741,7 +7741,7 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "S22G1-Zr21",
+        "name" : "S22G1-Zr210",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -15432,7 +15432,7 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "A8G1-Zr70",
+        "name" : "A8G1-Zr7",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -15444,7 +15444,7 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "A8G1-Zr7",
+        "name" : "A8G1-Zr70",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -16027,7 +16027,7 @@
         } ]
       },
       { "type" : "permRep",
-        "name" : "A9G1-p840",
+        "name" : "A9G1-p84",
         "generators" : "G1",
         "bases" : [
         { "type" : "basis",
@@ -16048,7 +16048,7 @@
         } ]
       },
       { "type" : "permRep",
-        "name" : "A9G1-p84",
+        "name" : "A9G1-p840",
         "generators" : "G1",
         "bases" : [
         { "type" : "basis",
@@ -16905,7 +16905,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "A9G1-f5r83",
+        "name" : "A9G1-f5r8",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -16926,7 +16926,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "A9G1-f5r8",
+        "name" : "A9G1-f5r83",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -18911,7 +18911,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "Co3G1-f5r230",
+        "name" : "Co3G1-f5r23",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -18932,7 +18932,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "Co3G1-f5r23",
+        "name" : "Co3G1-f5r230",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -23293,7 +23293,7 @@
         } ]
       },
       { "type" : "permRep",
-        "name" : "G24G1-p20800",
+        "name" : "G24G1-p2080",
         "generators" : "G1",
         "bases" : [
         { "type" : "basis",
@@ -23314,7 +23314,7 @@
         } ]
       },
       { "type" : "permRep",
-        "name" : "G24G1-p2080",
+        "name" : "G24G1-p20800",
         "generators" : "G1",
         "bases" : [
         { "type" : "basis",
@@ -23793,7 +23793,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "G24G1-f5r650",
+        "name" : "G24G1-f5r65",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -23814,7 +23814,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "G24G1-f5r65",
+        "name" : "G24G1-f5r650",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -24480,7 +24480,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "G25G1-f5r721",
+        "name" : "G25G1-f5r7",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -24501,7 +24501,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "G25G1-f5r7",
+        "name" : "G25G1-f5r721",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -24586,980 +24586,6 @@
       },
       { "type" : "modularRep",
         "name" : "G25G1-f5r97",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      } ]
-    } ]
-  },
-  { "type" : "simpleGroup",
-    "name" : "He",
-    "batch" : "spor",
-    "isoGroups" : [
-    { "type" : "isoGroup",
-      "name" : "He",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "HeG1-p2058",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "permRep",
-        "name" : "HeG1-p244800",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "permRep",
-        "name" : "HeG1-p29155",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "permRep",
-        "name" : "HeG1-p8330",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      } ],
-      "char0Reps" : [
-      { "type" : "char0Rep",
-        "name" : "HeG1-Zr102",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ],
-      "modularReps" : [ 
-      { "type" : "modularRep",
-        "name" : "HeG1-f17r102",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f17r306",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f17r680",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f25r153a",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f25r153b",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f25r51",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f25r925a",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f25r925b",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f2r101",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f2r246",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f2r51",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f2r680",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f3r679",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f5r104",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f5r680",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f7r153",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f7r426",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f7r50",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f7r798",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f9r153a",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f9r153b",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HeG1-f9r51",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "Hed2",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "Hed2G1-p2058",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "permRep",
-        "name" : "Hed2G1-p8330",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      } ],
-      "modularReps" : [ 
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f17r102",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f17r306a",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f17r680",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f2r102",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f2r202",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f2r492",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f2r680",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f3r102",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f3r306a",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f3r679",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f5r102",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f5r104a",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f5r306a",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f5r680",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f7r153",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f7r426",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "Hed2G1-f7r50",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -26853,7 +25879,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "HSG1-f11r770a",
+        "name" : "HSG1-f11r77",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -26874,7 +25900,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "HSG1-f11r77",
+        "name" : "HSG1-f11r770a",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -27315,7 +26341,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "HSG1-f3r770a",
+        "name" : "HSG1-f3r77",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -27336,7 +26362,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "HSG1-f3r77",
+        "name" : "HSG1-f3r770a",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -27525,7 +26551,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "HSG1-f5r210",
+        "name" : "HSG1-f5r21",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -27546,7 +26572,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "HSG1-f5r21",
+        "name" : "HSG1-f5r210",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -27840,6 +26866,27 @@
         } ]
       },
       { "type" : "modularRep",
+        "name" : "HSG1-f7r77",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
         "name" : "HSG1-f7r770a",
         "generators" : "G1",
         "bases" : [ 
@@ -27883,27 +26930,6 @@
       },
       { "type" : "modularRep",
         "name" : "HSG1-f7r770c",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "HSG1-f7r77",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -29090,6 +28116,980 @@
       },
       { "type" : "modularRep",
         "name" : "HSd2G1-f7r803a",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      } ]
+    } ]
+  },
+  { "type" : "simpleGroup",
+    "name" : "He",
+    "batch" : "spor",
+    "isoGroups" : [
+    { "type" : "isoGroup",
+      "name" : "He",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "HeG1-p2058",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "permRep",
+        "name" : "HeG1-p244800",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "permRep",
+        "name" : "HeG1-p29155",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "permRep",
+        "name" : "HeG1-p8330",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      } ],
+      "char0Reps" : [
+      { "type" : "char0Rep",
+        "name" : "HeG1-Zr102",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ],
+      "modularReps" : [ 
+      { "type" : "modularRep",
+        "name" : "HeG1-f17r102",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f17r306",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f17r680",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f25r153a",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f25r153b",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f25r51",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f25r925a",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f25r925b",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f2r101",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f2r246",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f2r51",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f2r680",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f3r679",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f5r104",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f5r680",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f7r153",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f7r426",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f7r50",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f7r798",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f9r153a",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f9r153b",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "HeG1-f9r51",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "Hed2",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "Hed2G1-p2058",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "permRep",
+        "name" : "Hed2G1-p8330",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      } ],
+      "modularReps" : [ 
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f17r102",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f17r306a",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f17r680",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f2r102",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f2r202",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f2r492",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f2r680",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f3r102",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f3r306a",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f3r679",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f5r102",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f5r104a",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f5r306a",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f5r680",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f7r153",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f7r426",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "Hed2G1-f7r50",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -36294,72 +36294,6 @@
   { "type" : "simpleGroup",
     "name" : "L211",
     "batch" : "lin",
-  },
-  { "type" : "simpleGroup",
-    "name" : "L2113",
-    "batch" : "lin",
-    "isoGroups" : [
-    { "type" : "isoGroup",
-      "name" : "2L2113",
-      "char0Reps" : [ 
-      { "type" : "char0Rep",
-        "name" : "2L2113G1-Ar114a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "L2113",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "L2113G1-p114",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap"
-          } ]
-        } ]
-      } ],
-      "char0Reps" : [
-      { "type" : "char0Rep",
-        "name" : "L2113G1-Ar114a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      },
-      { "type" : "char0Rep",
-        "name" : "L2113G1-Zr113",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    } ]
-  },
-  { "type" : "simpleGroup",
-    "name" : "L211"
     "isoGroups" : [
     { "type" : "isoGroup",
       "name" : "2L211",
@@ -37442,6 +37376,69 @@
     } ]
   },
   { "type" : "simpleGroup",
+    "name" : "L2113",
+    "batch" : "lin",
+    "isoGroups" : [
+    { "type" : "isoGroup",
+      "name" : "2L2113",
+      "char0Reps" : [ 
+      { "type" : "char0Rep",
+        "name" : "2L2113G1-Ar114a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "L2113",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "L2113G1-p114",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap"
+          } ]
+        } ]
+      } ],
+      "char0Reps" : [
+      { "type" : "char0Rep",
+        "name" : "L2113G1-Ar114a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      },
+      { "type" : "char0Rep",
+        "name" : "L2113G1-Zr113",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    } ]
+  },
+  { "type" : "simpleGroup",
     "name" : "L2127",
     "batch" : "lin",
     "isoGroups" : [
@@ -37538,69 +37535,6 @@
       },
       { "type" : "char0Rep",
         "name" : "L2128G1-Zr128",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    } ]
-  },
-  { "type" : "simpleGroup",
-    "name" : "L2131",
-    "batch" : "lin",
-    "isoGroups" : [
-    { "type" : "isoGroup",
-      "name" : "2L2131",
-      "char0Reps" : [ 
-      { "type" : "char0Rep",
-        "name" : "2L2131G1-Ar132a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "L2131",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "L2131G1-p132",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap"
-          } ]
-        } ]
-      } ],
-      "char0Reps" : [
-      { "type" : "char0Rep",
-        "name" : "L2131G1-Ar132a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      },
-      { "type" : "char0Rep",
-        "name" : "L2131G1-Zr131",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -38580,6 +38514,69 @@
     } ]
   },
   { "type" : "simpleGroup",
+    "name" : "L2131",
+    "batch" : "lin",
+    "isoGroups" : [
+    { "type" : "isoGroup",
+      "name" : "2L2131",
+      "char0Reps" : [ 
+      { "type" : "char0Rep",
+        "name" : "2L2131G1-Ar132a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "L2131",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "L2131G1-p132",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap"
+          } ]
+        } ]
+      } ],
+      "char0Reps" : [
+      { "type" : "char0Rep",
+        "name" : "L2131G1-Ar132a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      },
+      { "type" : "char0Rep",
+        "name" : "L2131G1-Zr131",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    } ]
+  },
+  { "type" : "simpleGroup",
     "name" : "L2137",
     "batch" : "lin",
     "isoGroups" : [
@@ -38897,72 +38894,6 @@
   { "type" : "simpleGroup",
     "name" : "L216",
     "batch" : "lin",
-  },
-  { "type" : "simpleGroup",
-    "name" : "L2163",
-    "batch" : "lin",
-    "isoGroups" : [
-    { "type" : "isoGroup",
-      "name" : "2L2163",
-      "char0Reps" : [ 
-      { "type" : "char0Rep",
-        "name" : "2L2163G1-Ar164a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "L2163",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "L2163G1-p164",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap"
-          } ]
-        } ]
-      } ],
-      "char0Reps" : [
-      { "type" : "char0Rep",
-        "name" : "L2163G1-Ar164a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      },
-      { "type" : "char0Rep",
-        "name" : "L2163G1-Zr163",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    } ]
-  },
-  { "type" : "simpleGroup",
-    "name" : "L216"
     "isoGroups" : [
     { "type" : "isoGroup",
       "name" : "L216",
@@ -39681,6 +39612,69 @@
     } ]
   },
   { "type" : "simpleGroup",
+    "name" : "L2163",
+    "batch" : "lin",
+    "isoGroups" : [
+    { "type" : "isoGroup",
+      "name" : "2L2163",
+      "char0Reps" : [ 
+      { "type" : "char0Rep",
+        "name" : "2L2163G1-Ar164a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "L2163",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "L2163G1-p164",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap"
+          } ]
+        } ]
+      } ],
+      "char0Reps" : [
+      { "type" : "char0Rep",
+        "name" : "L2163G1-Ar164a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      },
+      { "type" : "char0Rep",
+        "name" : "L2163G1-Zr163",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    } ]
+  },
+  { "type" : "simpleGroup",
     "name" : "L2167",
     "batch" : "lin",
     "isoGroups" : [
@@ -39746,72 +39740,6 @@
   { "type" : "simpleGroup",
     "name" : "L217",
     "batch" : "lin",
-  },
-  { "type" : "simpleGroup",
-    "name" : "L2173",
-    "batch" : "lin",
-    "isoGroups" : [
-    { "type" : "isoGroup",
-      "name" : "2L2173",
-      "char0Reps" : [ 
-      { "type" : "char0Rep",
-        "name" : "2L2173G1-Ar174a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "L2173",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "L2173G1-p174",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap"
-          } ]
-        } ]
-      } ],
-      "char0Reps" : [
-      { "type" : "char0Rep",
-        "name" : "L2173G1-Ar174a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      },
-      { "type" : "char0Rep",
-        "name" : "L2173G1-Zr173",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    } ]
-  },
-  { "type" : "simpleGroup",
-    "name" : "L217"
     "isoGroups" : [
     { "type" : "isoGroup",
       "name" : "2L217",
@@ -40656,6 +40584,69 @@
     } ]
   },
   { "type" : "simpleGroup",
+    "name" : "L2173",
+    "batch" : "lin",
+    "isoGroups" : [
+    { "type" : "isoGroup",
+      "name" : "2L2173",
+      "char0Reps" : [ 
+      { "type" : "char0Rep",
+        "name" : "2L2173G1-Ar174a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "L2173",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "L2173G1-p174",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap"
+          } ]
+        } ]
+      } ],
+      "char0Reps" : [
+      { "type" : "char0Rep",
+        "name" : "L2173G1-Ar174a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      },
+      { "type" : "char0Rep",
+        "name" : "L2173G1-Zr173",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    } ]
+  },
+  { "type" : "simpleGroup",
     "name" : "L2179",
     "batch" : "lin",
     "isoGroups" : [
@@ -40782,137 +40773,8 @@
     } ]
   },
   { "type" : "simpleGroup",
-    "name" : "L2191",
-    "batch" : "lin",
-    "isoGroups" : [
-    { "type" : "isoGroup",
-      "name" : "2L2191",
-      "char0Reps" : [ 
-      { "type" : "char0Rep",
-        "name" : "2L2191G1-Ar192a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "L2191",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "L2191G1-p192",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap"
-          } ]
-        } ]
-      } ],
-      "char0Reps" : [
-      { "type" : "char0Rep",
-        "name" : "L2191G1-Ar192a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      },
-      { "type" : "char0Rep",
-        "name" : "L2191G1-Zr191",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    } ]
-  },
-  { "type" : "simpleGroup",
     "name" : "L219",
     "batch" : "lin",
-  },
-  { "type" : "simpleGroup",
-    "name" : "L2193",
-    "batch" : "lin",
-    "isoGroups" : [
-    { "type" : "isoGroup",
-      "name" : "2L2193",
-      "char0Reps" : [ 
-      { "type" : "char0Rep",
-        "name" : "2L2193G1-Ar194a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "L2193",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "L2193G1-p194",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap"
-          } ]
-        } ]
-      } ],
-      "char0Reps" : [
-      { "type" : "char0Rep",
-        "name" : "L2193G1-Ar194a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      },
-      { "type" : "char0Rep",
-        "name" : "L2193G1-Zr193",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    } ]
-  },
-  { "type" : "simpleGroup",
-    "name" : "L219"
     "isoGroups" : [
     { "type" : "isoGroup",
       "name" : "2L219",
@@ -42022,6 +41884,132 @@
     } ]
   },
   { "type" : "simpleGroup",
+    "name" : "L2191",
+    "batch" : "lin",
+    "isoGroups" : [
+    { "type" : "isoGroup",
+      "name" : "2L2191",
+      "char0Reps" : [ 
+      { "type" : "char0Rep",
+        "name" : "2L2191G1-Ar192a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "L2191",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "L2191G1-p192",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap"
+          } ]
+        } ]
+      } ],
+      "char0Reps" : [
+      { "type" : "char0Rep",
+        "name" : "L2191G1-Ar192a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      },
+      { "type" : "char0Rep",
+        "name" : "L2191G1-Zr191",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    } ]
+  },
+  { "type" : "simpleGroup",
+    "name" : "L2193",
+    "batch" : "lin",
+    "isoGroups" : [
+    { "type" : "isoGroup",
+      "name" : "2L2193",
+      "char0Reps" : [ 
+      { "type" : "char0Rep",
+        "name" : "2L2193G1-Ar194a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "L2193",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "L2193G1-p194",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap"
+          } ]
+        } ]
+      } ],
+      "char0Reps" : [
+      { "type" : "char0Rep",
+        "name" : "L2193G1-Ar194a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      },
+      { "type" : "char0Rep",
+        "name" : "L2193G1-Zr193",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    } ]
+  },
+  { "type" : "simpleGroup",
     "name" : "L2197",
     "batch" : "lin",
     "isoGroups" : [
@@ -42402,72 +42390,6 @@
   { "type" : "simpleGroup",
     "name" : "L223",
     "batch" : "lin",
-  },
-  { "type" : "simpleGroup",
-    "name" : "L2233",
-    "batch" : "lin",
-    "isoGroups" : [
-    { "type" : "isoGroup",
-      "name" : "2L2233",
-      "char0Reps" : [ 
-      { "type" : "char0Rep",
-        "name" : "2L2233G1-Ar234a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "L2233",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "L2233G1-p234",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap"
-          } ]
-        } ]
-      } ],
-      "char0Reps" : [
-      { "type" : "char0Rep",
-        "name" : "L2233G1-Ar234a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      },
-      { "type" : "char0Rep",
-        "name" : "L2233G1-Zr233",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    } ]
-  },
-  { "type" : "simpleGroup",
-    "name" : "L223"
     "isoGroups" : [
     { "type" : "isoGroup",
       "name" : "2L223",
@@ -43188,6 +43110,69 @@
           },
           { "type" : "format",
             "name" : "mtx"
+          } ]
+        } ]
+      } ]
+    } ]
+  },
+  { "type" : "simpleGroup",
+    "name" : "L2233",
+    "batch" : "lin",
+    "isoGroups" : [
+    { "type" : "isoGroup",
+      "name" : "2L2233",
+      "char0Reps" : [ 
+      { "type" : "char0Rep",
+        "name" : "2L2233G1-Ar234a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "L2233",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "L2233G1-p234",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap"
+          } ]
+        } ]
+      } ],
+      "char0Reps" : [
+      { "type" : "char0Rep",
+        "name" : "L2233G1-Ar234a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      },
+      { "type" : "char0Rep",
+        "name" : "L2233G1-Zr233",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
           } ]
         } ]
       } ]
@@ -44756,7 +44741,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "L231G1-f31r31",
+        "name" : "L231G1-f31r3",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -44777,7 +44762,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "L231G1-f31r3",
+        "name" : "L231G1-f31r31",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -45581,137 +45566,8 @@
     } ]
   },
   { "type" : "simpleGroup",
-    "name" : "L241",
-    "batch" : "lin",
-    "isoGroups" : [
-    { "type" : "isoGroup",
-      "name" : "2L241",
-      "char0Reps" : [ 
-      { "type" : "char0Rep",
-        "name" : "2L241G1-Ar42a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "L241",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "L241G1-p42",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap"
-          } ]
-        } ]
-      } ],
-      "char0Reps" : [
-      { "type" : "char0Rep",
-        "name" : "L241G1-Ar42a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      },
-      { "type" : "char0Rep",
-        "name" : "L241G1-Zr41",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    } ]
-  },
-  { "type" : "simpleGroup",
     "name" : "L24",
     "batch" : "lin",
-  },
-  { "type" : "simpleGroup",
-    "name" : "L243",
-    "batch" : "lin",
-    "isoGroups" : [
-    { "type" : "isoGroup",
-      "name" : "2L243",
-      "char0Reps" : [ 
-      { "type" : "char0Rep",
-        "name" : "2L243G1-Ar44a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "L243",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "L243G1-p44",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap"
-          } ]
-        } ]
-      } ],
-      "char0Reps" : [
-      { "type" : "char0Rep",
-        "name" : "L243G1-Ar44a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      },
-      { "type" : "char0Rep",
-        "name" : "L243G1-Zr43",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    } ]
-  },
-  { "type" : "simpleGroup",
-    "name" : "L24"
     "isoGroups" : [
     { "type" : "isoGroup",
       "name" : "2A5",
@@ -47194,6 +47050,132 @@
           },
           { "type" : "format",
             "name" : "mtx"
+          } ]
+        } ]
+      } ]
+    } ]
+  },
+  { "type" : "simpleGroup",
+    "name" : "L241",
+    "batch" : "lin",
+    "isoGroups" : [
+    { "type" : "isoGroup",
+      "name" : "2L241",
+      "char0Reps" : [ 
+      { "type" : "char0Rep",
+        "name" : "2L241G1-Ar42a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "L241",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "L241G1-p42",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap"
+          } ]
+        } ]
+      } ],
+      "char0Reps" : [
+      { "type" : "char0Rep",
+        "name" : "L241G1-Ar42a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      },
+      { "type" : "char0Rep",
+        "name" : "L241G1-Zr41",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    } ]
+  },
+  { "type" : "simpleGroup",
+    "name" : "L243",
+    "batch" : "lin",
+    "isoGroups" : [
+    { "type" : "isoGroup",
+      "name" : "2L243",
+      "char0Reps" : [ 
+      { "type" : "char0Rep",
+        "name" : "2L243G1-Ar44a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "L243",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "L243G1-p44",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap"
+          } ]
+        } ]
+      } ],
+      "char0Reps" : [
+      { "type" : "char0Rep",
+        "name" : "L243G1-Ar44a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      },
+      { "type" : "char0Rep",
+        "name" : "L243G1-Zr43",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
           } ]
         } ]
       } ]
@@ -47532,72 +47514,6 @@
   { "type" : "simpleGroup",
     "name" : "L25",
     "batch" : "lin",
-  },
-  { "type" : "simpleGroup",
-    "name" : "L253",
-    "batch" : "lin",
-    "isoGroups" : [
-    { "type" : "isoGroup",
-      "name" : "2L253",
-      "char0Reps" : [ 
-      { "type" : "char0Rep",
-        "name" : "2L253G1-Ar54a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "L253",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "L253G1-p54",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap"
-          } ]
-        } ]
-      } ],
-      "char0Reps" : [
-      { "type" : "char0Rep",
-        "name" : "L253G1-Ar54a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      },
-      { "type" : "char0Rep",
-        "name" : "L253G1-Zr53",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    } ]
-  },
-  { "type" : "simpleGroup",
-    "name" : "L25"
     "isoGroups" : [
     { "type" : "isoGroup",
       "name" : "2A5",
@@ -49086,6 +49002,69 @@
     } ]
   },
   { "type" : "simpleGroup",
+    "name" : "L253",
+    "batch" : "lin",
+    "isoGroups" : [
+    { "type" : "isoGroup",
+      "name" : "2L253",
+      "char0Reps" : [ 
+      { "type" : "char0Rep",
+        "name" : "2L253G1-Ar54a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "L253",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "L253G1-p54",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap"
+          } ]
+        } ]
+      } ],
+      "char0Reps" : [
+      { "type" : "char0Rep",
+        "name" : "L253G1-Ar54a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      },
+      { "type" : "char0Rep",
+        "name" : "L253G1-Zr53",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    } ]
+  },
+  { "type" : "simpleGroup",
     "name" : "L259",
     "batch" : "lin",
     "isoGroups" : [
@@ -49321,137 +49300,8 @@
     } ]
   },
   { "type" : "simpleGroup",
-    "name" : "L271",
-    "batch" : "lin",
-    "isoGroups" : [
-    { "type" : "isoGroup",
-      "name" : "2L271",
-      "char0Reps" : [ 
-      { "type" : "char0Rep",
-        "name" : "2L271G1-Ar72a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "L271",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "L271G1-p72",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap"
-          } ]
-        } ]
-      } ],
-      "char0Reps" : [
-      { "type" : "char0Rep",
-        "name" : "L271G1-Ar72a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      },
-      { "type" : "char0Rep",
-        "name" : "L271G1-Zr71",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    } ]
-  },
-  { "type" : "simpleGroup",
     "name" : "L27",
     "batch" : "lin",
-  },
-  { "type" : "simpleGroup",
-    "name" : "L273",
-    "batch" : "lin",
-    "isoGroups" : [
-    { "type" : "isoGroup",
-      "name" : "2L273",
-      "char0Reps" : [ 
-      { "type" : "char0Rep",
-        "name" : "2L273G1-Ar74a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "L273",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "L273G1-p74",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap"
-          } ]
-        } ]
-      } ],
-      "char0Reps" : [
-      { "type" : "char0Rep",
-        "name" : "L273G1-Ar74a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      },
-      { "type" : "char0Rep",
-        "name" : "L273G1-Zr73",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    } ]
-  },
-  { "type" : "simpleGroup",
-    "name" : "L27"
     "isoGroups" : [
     { "type" : "isoGroup",
       "name" : "2L27",
@@ -51108,6 +50958,132 @@
     } ]
   },
   { "type" : "simpleGroup",
+    "name" : "L271",
+    "batch" : "lin",
+    "isoGroups" : [
+    { "type" : "isoGroup",
+      "name" : "2L271",
+      "char0Reps" : [ 
+      { "type" : "char0Rep",
+        "name" : "2L271G1-Ar72a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "L271",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "L271G1-p72",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap"
+          } ]
+        } ]
+      } ],
+      "char0Reps" : [
+      { "type" : "char0Rep",
+        "name" : "L271G1-Ar72a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      },
+      { "type" : "char0Rep",
+        "name" : "L271G1-Zr71",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    } ]
+  },
+  { "type" : "simpleGroup",
+    "name" : "L273",
+    "batch" : "lin",
+    "isoGroups" : [
+    { "type" : "isoGroup",
+      "name" : "2L273",
+      "char0Reps" : [ 
+      { "type" : "char0Rep",
+        "name" : "2L273G1-Ar74a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "L273",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "L273G1-p74",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap"
+          } ]
+        } ]
+      } ],
+      "char0Reps" : [
+      { "type" : "char0Rep",
+        "name" : "L273G1-Ar74a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      },
+      { "type" : "char0Rep",
+        "name" : "L273G1-Zr73",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    } ]
+  },
+  { "type" : "simpleGroup",
     "name" : "L279",
     "batch" : "lin",
     "isoGroups" : [
@@ -51173,72 +51149,6 @@
   { "type" : "simpleGroup",
     "name" : "L28",
     "batch" : "lin",
-  },
-  { "type" : "simpleGroup",
-    "name" : "L283",
-    "batch" : "lin",
-    "isoGroups" : [
-    { "type" : "isoGroup",
-      "name" : "2L283",
-      "char0Reps" : [ 
-      { "type" : "char0Rep",
-        "name" : "2L283G1-Ar84a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "L283",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "L283G1-p84",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap"
-          } ]
-        } ]
-      } ],
-      "char0Reps" : [
-      { "type" : "char0Rep",
-        "name" : "L283G1-Ar84a",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      },
-      { "type" : "char0Rep",
-        "name" : "L283G1-Zr83",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      } ]
-    } ]
-  },
-  { "type" : "simpleGroup",
-    "name" : "L28"
     "isoGroups" : [
     { "type" : "isoGroup",
       "name" : "L28",
@@ -52074,6 +51984,69 @@
           },
           { "type" : "format",
             "name" : "mtx"
+          } ]
+        } ]
+      } ]
+    } ]
+  },
+  { "type" : "simpleGroup",
+    "name" : "L283",
+    "batch" : "lin",
+    "isoGroups" : [
+    { "type" : "isoGroup",
+      "name" : "2L283",
+      "char0Reps" : [ 
+      { "type" : "char0Rep",
+        "name" : "2L283G1-Ar84a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "L283",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "L283G1-p84",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap"
+          } ]
+        } ]
+      } ],
+      "char0Reps" : [
+      { "type" : "char0Rep",
+        "name" : "L283G1-Ar84a",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
+          } ]
+        } ]
+      },
+      { "type" : "char0Rep",
+        "name" : "L283G1-Zr83",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
           } ]
         } ]
       } ]
@@ -66783,7 +66756,7 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "A8G1-Zr70",
+        "name" : "A8G1-Zr7",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -66795,7 +66768,7 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "A8G1-Zr7",
+        "name" : "A8G1-Zr70",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -70723,7 +70696,7 @@
       } ],
       "char0Reps" : [
       { "type" : "char0Rep",
-        "name" : "2M12G1-Zr120",
+        "name" : "2M12G1-Zr12",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -70735,7 +70708,7 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "2M12G1-Zr12",
+        "name" : "2M12G1-Zr120",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -74862,7 +74835,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "3M22G1-f121r21a1",
+        "name" : "3M22G1-f121r21a",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -74883,7 +74856,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "3M22G1-f121r21a",
+        "name" : "3M22G1-f121r21a1",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -76354,7 +76327,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "6M22G1-f121r36a1",
+        "name" : "6M22G1-f121r36a",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -76375,7 +76348,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "6M22G1-f121r36a",
+        "name" : "6M22G1-f121r36a1",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -77099,7 +77072,7 @@
         } ]
       },
       { "type" : "permRep",
-        "name" : "M22G1-p770",
+        "name" : "M22G1-p77",
         "generators" : "G1",
         "bases" : [
         { "type" : "basis",
@@ -77120,7 +77093,7 @@
         } ]
       },
       { "type" : "permRep",
-        "name" : "M22G1-p77",
+        "name" : "M22G1-p770",
         "generators" : "G1",
         "bases" : [
         { "type" : "basis",
@@ -77178,7 +77151,7 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "M22G1-Zr210",
+        "name" : "M22G1-Zr21",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -77190,7 +77163,7 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "M22G1-Zr21",
+        "name" : "M22G1-Zr210",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -77533,7 +77506,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "M22G1-f3r210",
+        "name" : "M22G1-f3r21",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -77554,7 +77527,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "M22G1-f3r21",
+        "name" : "M22G1-f3r210",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -77785,7 +77758,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "M22G1-f5r210",
+        "name" : "M22G1-f5r21",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -77806,7 +77779,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "M22G1-f5r21",
+        "name" : "M22G1-f5r210",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -77932,7 +77905,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "M22G1-f7r210",
+        "name" : "M22G1-f7r21",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -77953,7 +77926,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "M22G1-f7r21",
+        "name" : "M22G1-f7r210",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -79524,7 +79497,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "M23G1-f23r210",
+        "name" : "M23G1-f23r21",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -79545,7 +79518,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "M23G1-f23r21",
+        "name" : "M23G1-f23r210",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -80879,7 +80852,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "M24G1-f23r231b",
+        "name" : "M24G1-f23r23",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -80900,7 +80873,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "M24G1-f23r23",
+        "name" : "M24G1-f23r231b",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -81551,7 +81524,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "M24G1-f5r231",
+        "name" : "M24G1-f5r23",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -81572,7 +81545,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "M24G1-f5r23",
+        "name" : "M24G1-f5r231",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -82065,27 +82038,6 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "3McLG1-f49r126a1",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
         "name" : "3McLG1-f49r126a",
         "generators" : "G1",
         "bases" : [ 
@@ -82107,7 +82059,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "3McLG1-f49r126b1",
+        "name" : "3McLG1-f49r126a1",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -82129,6 +82081,27 @@
       },
       { "type" : "modularRep",
         "name" : "3McLG1-f49r126b",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "3McLG1-f49r126b1",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -82860,7 +82833,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "McLG1-f3r210",
+        "name" : "McLG1-f3r21",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -82881,7 +82854,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "McLG1-f3r21",
+        "name" : "McLG1-f3r210",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -83049,7 +83022,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "McLG1-f5r210",
+        "name" : "McLG1-f5r21",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -83070,7 +83043,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "McLG1-f5r21",
+        "name" : "McLG1-f5r210",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -83951,7 +83924,7 @@
       } ],
       "modularReps" : [ 
       { "type" : "modularRep",
-        "name" : "O10m2G1-f2r100",
+        "name" : "O10m2G1-f2r10",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -83972,7 +83945,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "O10m2G1-f2r10",
+        "name" : "O10m2G1-f2r100",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -84167,7 +84140,7 @@
       } ],
       "modularReps" : [ 
       { "type" : "modularRep",
-        "name" : "O10m2d2G1-f2r100",
+        "name" : "O10m2d2G1-f2r10",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -84188,7 +84161,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "O10m2d2G1-f2r10",
+        "name" : "O10m2d2G1-f2r100",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -84475,7 +84448,7 @@
       } ],
       "modularReps" : [ 
       { "type" : "modularRep",
-        "name" : "O10p2G1-f2r100",
+        "name" : "O10p2G1-f2r10",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -84496,7 +84469,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "O10p2G1-f2r10",
+        "name" : "O10p2G1-f2r100",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -84859,7 +84832,7 @@
       } ],
       "modularReps" : [ 
       { "type" : "modularRep",
-        "name" : "O10p2d2G1-f2r100",
+        "name" : "O10p2d2G1-f2r10",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -84880,7 +84853,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "O10p2d2G1-f2r10",
+        "name" : "O10p2d2G1-f2r100",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -84943,7 +84916,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "O10p2d2G1-f2r320",
+        "name" : "O10p2d2G1-f2r32",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -84964,7 +84937,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "O10p2d2G1-f2r32",
+        "name" : "O10p2d2G1-f2r320",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -85267,7 +85240,7 @@
         } ]
       },
       { "type" : "permRep",
-        "name" : "O73G1-p3640",
+        "name" : "O73G1-p364",
         "generators" : "G1",
         "bases" : [
         { "type" : "basis",
@@ -85288,7 +85261,7 @@
         } ]
       },
       { "type" : "permRep",
-        "name" : "O73G1-p364",
+        "name" : "O73G1-p3640",
         "generators" : "G1",
         "bases" : [
         { "type" : "basis",
@@ -86635,6 +86608,80 @@
     },
       
     { "type" : "isoGroup",
+      "name" : "O8m3D8",
+      "modularReps" : [ 
+      { "type" : "modularRep",
+        "name" : "O8m3D8G1-f3r8",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "O8m3V4",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "O8m3V4G1-p1066",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      } ],
+      "modularReps" : [ 
+      { "type" : "modularRep",
+        "name" : "O8m3V4G1-f3r16",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
       "name" : "O8m3d2a",
       "permReps" : [
       { "type" : "permRep",
@@ -86730,80 +86777,6 @@
       "modularReps" : [ 
       { "type" : "modularRep",
         "name" : "O8m3d2cG1-f3r8a",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "O8m3D8",
-      "modularReps" : [ 
-      { "type" : "modularRep",
-        "name" : "O8m3D8G1-f3r8",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "O8m3V4",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "O8m3V4G1-p1066",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      } ],
-      "modularReps" : [ 
-      { "type" : "modularRep",
-        "name" : "O8m3V4G1-f3r16",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -90364,7 +90337,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "S102G1-f2r100",
+        "name" : "S102G1-f2r10",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -90385,7 +90358,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "S102G1-f2r10",
+        "name" : "S102G1-f2r100",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -92920,7 +92893,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "2U42G1-f3r40",
+        "name" : "2U42G1-f3r4",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -92941,7 +92914,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "2U42G1-f3r4",
+        "name" : "2U42G1-f3r40",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -93342,18 +93315,6 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "U42G1-Zr60",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      },
-      { "type" : "char0Rep",
         "name" : "U42G1-Zr6",
         "generators" : "G1",
         "bases": [
@@ -93365,6 +93326,18 @@
           },
           { "type" : "format",
             "name" : "mag"
+          } ]
+        } ]
+      },
+      { "type" : "char0Rep",
+        "name" : "U42G1-Zr60",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
           } ]
         } ]
       },
@@ -96118,18 +96091,6 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "S62G1-Zr70",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      },
-      { "type" : "char0Rep",
         "name" : "S62G1-Zr7",
         "generators" : "G1",
         "bases": [
@@ -96155,6 +96116,18 @@
           "formats" : [
           { "type" : "format",
             "name" : "mag"
+          } ]
+        } ]
+      },
+      { "type" : "char0Rep",
+        "name" : "S62G1-Zr70",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
           } ]
         } ]
       },
@@ -96717,7 +96690,7 @@
         } ]
       },
       { "type" : "permRep",
-        "name" : "S63G1-p3640",
+        "name" : "S63G1-p364",
         "generators" : "G1",
         "bases" : [
         { "type" : "basis",
@@ -96738,7 +96711,7 @@
         } ]
       },
       { "type" : "permRep",
-        "name" : "S63G1-p364",
+        "name" : "S63G1-p3640",
         "generators" : "G1",
         "bases" : [
         { "type" : "basis",
@@ -96988,7 +96961,7 @@
         } ]
       },
       { "type" : "permRep",
-        "name" : "S63d2G1-p3640",
+        "name" : "S63d2G1-p364",
         "generators" : "G1",
         "bases" : [
         { "type" : "basis",
@@ -97009,7 +96982,7 @@
         } ]
       },
       { "type" : "permRep",
-        "name" : "S63d2G1-p364",
+        "name" : "S63d2G1-p3640",
         "generators" : "G1",
         "bases" : [
         { "type" : "basis",
@@ -101307,6 +101280,32 @@
     },
       
     { "type" : "isoGroup",
+      "name" : "3TE62S3",
+      "modularReps" : [ 
+      { "type" : "modularRep",
+        "name" : "3TE62S3G0-f2r54",
+        "generators" : "G0",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
       "name" : "3TE62d2",
       "modularReps" : [ 
       { "type" : "modularRep",
@@ -101337,32 +101336,6 @@
       "modularReps" : [ 
       { "type" : "modularRep",
         "name" : "3TE62d3G0-f4r27",
-        "generators" : "G0",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "3TE62S3",
-      "modularReps" : [ 
-      { "type" : "modularRep",
-        "name" : "3TE62S3G0-f2r54",
         "generators" : "G0",
         "bases" : [ 
         { "type" : "basis",
@@ -101458,6 +101431,32 @@
     },
       
     { "type" : "isoGroup",
+      "name" : "TE62S3",
+      "modularReps" : [ 
+      { "type" : "modularRep",
+        "name" : "TE62S3G0-f2r78",
+        "generators" : "G0",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
       "name" : "TE62d2",
       "modularReps" : [ 
       { "type" : "modularRep",
@@ -101509,32 +101508,6 @@
       "modularReps" : [ 
       { "type" : "modularRep",
         "name" : "TE62d3G0-f2r78",
-        "generators" : "G0",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "TE62S3",
-      "modularReps" : [ 
-      { "type" : "modularRep",
-        "name" : "TE62S3G0-f2r78",
         "generators" : "G0",
         "bases" : [ 
         { "type" : "basis",
@@ -102613,23 +102586,6 @@
     "batch" : "spor",
     "isoGroups" : [
     { "type" : "isoGroup",
-      "name" : "oldTh",
-      "char0Reps" : [ 
-      { "type" : "char0Rep",
-        "name" : "oldThG1-Qr248",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "mag"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
       "name" : "Th",
       "char0Reps" : [ 
       { "type" : "char0Rep",
@@ -102825,6 +102781,23 @@
           },
           { "type" : "format",
             "name" : "mtx"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "oldTh",
+      "char0Reps" : [ 
+      { "type" : "char0Rep",
+        "name" : "oldThG1-Qr248",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "mag"
           } ]
         } ]
       } ]
@@ -107644,6 +107617,147 @@
     },
       
     { "type" : "isoGroup",
+      "name" : "U38E9",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "U38E9G1-p3648",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "permRep",
+        "name" : "U38E9G1-p513",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "U38S3",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "U38S3G1-p3648",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "permRep",
+        "name" : "U38S3G1-p513",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "U38S3x3",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "U38S3x3G1-p3648",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "permRep",
+        "name" : "U38S3x3G1-p513",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
       "name" : "U38d2",
       "permReps" : [
       { "type" : "permRep",
@@ -108066,147 +108180,6 @@
           } ]
         } ]
       } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "U38E9",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "U38E9G1-p3648",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "permRep",
-        "name" : "U38E9G1-p513",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "U38S3",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "U38S3G1-p3648",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "permRep",
-        "name" : "U38S3G1-p513",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "U38S3x3",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "U38S3x3G1-p3648",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "permRep",
-        "name" : "U38S3x3G1-p513",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      } ]
     } ]
   },
   { "type" : "simpleGroup",
@@ -108433,7 +108406,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "2U42G1-f3r40",
+        "name" : "2U42G1-f3r4",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -108454,7 +108427,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "2U42G1-f3r4",
+        "name" : "2U42G1-f3r40",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -108855,18 +108828,6 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "U42G1-Zr60",
-        "generators" : "G1",
-        "bases": [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "gap0"
-          } ]
-        } ]
-      },
-      { "type" : "char0Rep",
         "name" : "U42G1-Zr6",
         "generators" : "G1",
         "bases": [
@@ -108878,6 +108839,18 @@
           },
           { "type" : "format",
             "name" : "mag"
+          } ]
+        } ]
+      },
+      { "type" : "char0Rep",
+        "name" : "U42G1-Zr60",
+        "generators" : "G1",
+        "bases": [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "gap0"
           } ]
         } ]
       },
@@ -109504,7 +109477,7 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "U43G1-Zr210",
+        "name" : "U43G1-Zr21",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -109516,7 +109489,7 @@
         } ]
       },
       { "type" : "char0Rep",
-        "name" : "U43G1-Zr21",
+        "name" : "U43G1-Zr210",
         "generators" : "G1",
         "bases": [
         { "type" : "basis",
@@ -110439,7 +110412,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "U52G1-f3r100",
+        "name" : "U52G1-f3r10",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -110460,7 +110433,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "U52G1-f3r10",
+        "name" : "U52G1-f3r100",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -110857,7 +110830,7 @@
       } ],
       "modularReps" : [ 
       { "type" : "modularRep",
-        "name" : "U52d2G1-f2r1024",
+        "name" : "U52d2G1-f2r10",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -110878,7 +110851,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "U52d2G1-f2r10",
+        "name" : "U52d2G1-f2r1024",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -111731,7 +111704,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "2U62G1-f3r560",
+        "name" : "2U62G1-f3r56",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -111752,7 +111725,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "2U62G1-f3r56",
+        "name" : "2U62G1-f3r560",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -113270,7 +113243,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "U62G1-f3r210",
+        "name" : "U62G1-f3r21",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -113291,7 +113264,7 @@
         } ]
       },
       { "type" : "modularRep",
-        "name" : "U62G1-f3r21",
+        "name" : "U62G1-f3r210",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -113607,6 +113580,348 @@
       },
       { "type" : "modularRep",
         "name" : "U62G1-f7r616",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      } ]
+    },
+      
+    { "type" : "isoGroup",
+      "name" : "U62S3",
+      "permReps" : [
+      { "type" : "permRep",
+        "name" : "U62S3G1-p693",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "permRep",
+        "name" : "U62S3G1-p891",
+        "generators" : "G1",
+        "bases" : [
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      } ],
+      "modularReps" : [ 
+      { "type" : "modularRep",
+        "name" : "U62S3G1-f11r22a",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "U62S3G1-f2r140a0",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "U62S3G1-f2r140a1",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "U62S3G1-f2r140a2",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "U62S3G1-f2r154",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "U62S3G1-f2r20",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "U62S3G1-f2r34",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "U62S3G1-f2r400",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "U62S3G1-f3r210a",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "U62S3G1-f3r21a",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "U62S3G1-f3r229a",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "U62S3G1-f3r364a",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "U62S3G1-f5r22a",
+        "generators" : "G1",
+        "bases" : [ 
+        { "type" : "basis",
+          "name" : "B0",
+          "formats" : [
+          { "type" : "format",
+            "name" : "bin"
+          },
+          { "type" : "format",
+            "name" : "gap"
+          },
+          { "type" : "format",
+            "name" : "mag"
+          },
+          { "type" : "format",
+            "name" : "mtx"
+          } ]
+        } ]
+      },
+      { "type" : "modularRep",
+        "name" : "U62S3G1-f7r22a",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
@@ -114012,348 +114327,6 @@
       },
       { "type" : "modularRep",
         "name" : "U62d2G1-f7r22a",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      } ]
-    },
-      
-    { "type" : "isoGroup",
-      "name" : "U62S3",
-      "permReps" : [
-      { "type" : "permRep",
-        "name" : "U62S3G1-p693",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "permRep",
-        "name" : "U62S3G1-p891",
-        "generators" : "G1",
-        "bases" : [
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      } ],
-      "modularReps" : [ 
-      { "type" : "modularRep",
-        "name" : "U62S3G1-f11r22a",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "U62S3G1-f2r140a0",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "U62S3G1-f2r140a1",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "U62S3G1-f2r140a2",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "U62S3G1-f2r154",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "U62S3G1-f2r20",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "U62S3G1-f2r34",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "U62S3G1-f2r400",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "U62S3G1-f3r210a",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "U62S3G1-f3r21a",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "U62S3G1-f3r229a",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "U62S3G1-f3r364a",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "U62S3G1-f5r22a",
-        "generators" : "G1",
-        "bases" : [ 
-        { "type" : "basis",
-          "name" : "B0",
-          "formats" : [
-          { "type" : "format",
-            "name" : "bin"
-          },
-          { "type" : "format",
-            "name" : "gap"
-          },
-          { "type" : "format",
-            "name" : "mag"
-          },
-          { "type" : "format",
-            "name" : "mtx"
-          } ]
-        } ]
-      },
-      { "type" : "modularRep",
-        "name" : "U62S3G1-f7r22a",
         "generators" : "G1",
         "bases" : [ 
         { "type" : "basis",
