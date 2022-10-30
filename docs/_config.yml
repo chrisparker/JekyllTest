@@ -1,0 +1,7 @@
+page_gen:
+- data: 'theta.caboodle'
+  dir: '.'
+  template: 'representation'
+  index_files: false
+  name: 'name'
+  debug: 'true'
