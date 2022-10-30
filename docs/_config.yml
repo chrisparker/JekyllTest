@@ -1,3 +1,6 @@
+plugins:
+- jekyll-datapage-generator
+  
 page_gen:
 - data: 'theta.caboodle'
   dir: 'representations'
