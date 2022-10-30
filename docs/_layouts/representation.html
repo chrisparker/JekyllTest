@@ -8,16 +8,58 @@
     <link rel="stylesheet" href="/css/style.css">
   </head>
   <body>
-    <nav>
-      <a href="/">Home</a>
-      <a href="/blog/">Blog</a>
-    </nav>
-    <h1>{{ page.title }}</h1>
-    <section>
-      {{ content }}
-    </section>
-    <footer>
-      &copy; to me
-    </footer>
+    <h1>Representations of {{ page.title }} - Batch '{{ page.batch}}'</h1>
+    	
+	{% for isoGroup in page.isoGroups %}
+	<h2>Iso group: {{ isoGroup.name }}</h2>
+	
+	{% if isoGroup.permReps %}
+	<h3>Permutation Representations</h2>
+	<table>
+	  <tr>
+        <th>Name</th>
+        <th>Generators</th>
+	  </tr>
+	  {% for permRep in isoGroup.permReps %}
+	  <tr>
+		<td>{{ permRep.name }}</td>
+		<td>{{ permRep.generators }}</td>
+	  </tr>
+      {% endfor %}
+	</table>
+	{% endif %}	
+	
+	{% if isoGroup.modularReps %}
+	<h3>Modular Representations</h2>
+	<table>
+	  <tr>
+        <th>Name</th>
+        <th>Generators</th>
+	  </tr>
+	  {% for modularRep in isoGroup.modularReps %}
+	  <tr>
+		<td>{{ modularRep.name }}</td>
+		<td>{{ modularRep.generators }}</td>
+	  </tr>
+      {% endfor %}
+	</table>	
+	{% endif %}	
+	
+	{% if isoGroup.char0Reps %}
+	<h3>Character 0 Representations</h2>
+	<table>
+	  <tr>
+        <th>Name</th>
+        <th>Generators</th>
+	  </tr>
+	  {% for char0Rep in isoGroup.char0Reps %}
+	  <tr>
+		<td>{{ char0Rep.name }}</td>
+		<td>{{ char0Rep.generators }}</td>
+	  </tr>
+      {% endfor %}
+	</table>	
+	{% endif %}	
+	{% endfor %}
   </body>
 </html>

@@ -10,17 +10,13 @@
 	<body>
 		<table>
 			<tr>
-				<th>Permutation Representation</th>
 				<th>Group</th>
-				<th>Batch</th>
 			</tr>
-			{% for item in site.data.groups %}
+			{% for simpleGroup in site.data.theta.caboodle %}
 			<tr>
 				<td>
-					<a href="https://brauer.maths.qmul.ac.uk/Atlas/v3/permrep/{{ item.permRepName }}">{{ item.permRepName }}</a>
+					<a href="representations/{{ simpleGroup.name }}.html">{{ simpleGroup.name }}</a>
 				</td>
-				<td>{{ item.groupName }}</td>
-				<td>{{ item.batch }}</td>
 			</tr>
 			{% endfor %}
 		</table>

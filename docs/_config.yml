@@ -1,6 +1,6 @@
 page_gen:
 - data: 'theta.caboodle'
-  dir: '.'
+  dir: 'representations'
   template: 'representation'
   index_files: false
   name: 'name'
