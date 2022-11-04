@@ -16,5 +16,6 @@ Deployed site at: https://chrisparker.github.io/JekyllTest/
 
 1. Download the contents of this repository.
 2. Follow the instructions at https://jekyllrb.com/docs/ to get jekyll running on your operating system. For windows, use this page: https://jekyllrb.com/docs/installation/windows/
-3. Navigate to the `docs` folder within the cloned repository, and run the console command `jekyll build`. 
-4. Browse to `http://localhost:4000`.
+3. Run the command `gem install jekyll-datapage-generator`.
+4. Navigate to the `docs` folder within the cloned repository, and run the console command `jekyll build`. 
+5. Browse to `http://localhost:4000`.
