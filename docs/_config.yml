@@ -4,7 +4,6 @@ plugins:
 page_gen:
 - data: 'theta.caboodle'
   dir: 'representations'
-  title: 'Simple groups'
   template: 'representation'
   index_files: false
   name: 'name'
