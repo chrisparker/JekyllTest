@@ -3,63 +3,91 @@
 
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="STYLESHEET" type="text/css" href="../css/atlas.css" />
+    <title>ATLAS: Representations of {{ page.title }}</title>
   </head>
   <body>
-    <h1>Representations of {{ page.title }} - Batch '{{ page.batch}}'</h1>
-    	
+    <div id="header">
+      <h1>A<small>TLAS</small>: Representations of {{ page.title }}</h1>
+    </div>
+    <div id="main">
 	{% for isoGroup in page.isoGroups %}
-	<h2>Iso group: {{ isoGroup.name }}</h2>
-	
+       <h2>Representations of {{ isoGroup.name }}</h2>
+  
 	{% if isoGroup.permReps %}
-	<h3>Permutation Representations</h2>
-	<table>
+	<h3>Permutation representations:</h3>
+	<table width="70%" cellspacing="2">
 	  <tr>
-        <th>Name</th>
-        <th>Generators</th>
-	  </tr>
+            <th class="permrep" style="width: 30%;">Number of
+            points</th>
+            <th class="permrep" style="width: 20%;">ID</th>
+            <th class="permrep" style="width: 10%;">Generators</th>
+            <th class="permrep" style="width: 10%;">Link</th>
+          </tr>
 	  {% for permRep in isoGroup.permReps %}
 	  <tr>
-		<td>{{ permRep.name }}</td>
-		<td>{{ permRep.generators }}</td>
-	  </tr>
+            <td class="permrep">{{ permRep.name }}</td>
+            <td class="permrep">{{ permRep.generators }}</td>
+            <td class="permrep">Std</td>
+            <td class="permrep"><a href="../permrep/L52G1-p31aB0.html">Details</a></td>
+          </tr>
       {% endfor %}
 	</table>
 	{% endif %}	
-	
-	{% if isoGroup.modularReps %}
-	<h3>Modular Representations</h2>
-	<table>
-	  <tr>
-        <th>Name</th>
-        <th>Generators</th>
-	  </tr>
-	  {% for modularRep in isoGroup.modularReps %}
-	  <tr>
-		<td>{{ modularRep.name }}</td>
-		<td>{{ modularRep.generators }}</td>
-	  </tr>
-      {% endfor %}
-	</table>	
-	{% endif %}	
-	
+    
 	{% if isoGroup.char0Reps %}
-	<h3>Character 0 Representations</h2>
-	<table>
+	<h3>Characteristic zero representations</h3>
+    <table width="70%" cellspacing="2">
 	  <tr>
-        <th>Name</th>
-        <th>Generators</th>
+            <th class="matrixrep" style="width: 15%;">Char</th>
+            <th class="matrixrep" style="width: 20%;">Ring</th>
+            <th class="matrixrep" style="width: 15%;">
+            Dimension</th>
+            <th class="matrixrep" style="width: 10%;">ID</th>
+            <th class="matrixrep" style="width: 15%;">
+            Generators</th>
+            <th class="matrixrep" style="width: 10%;">Link</th>
 	  </tr>
 	  {% for char0Rep in isoGroup.char0Reps %}
 	  <tr>
-		<td>{{ char0Rep.name }}</td>
-		<td>{{ char0Rep.generators }}</td>
+            <td class="matrixrep">{{ char0Rep.name }}</td>
+            <td class="matrixrep">{{ char0Rep.generators }}</td>
+            <td class="matrixrep">30</td>
+            <td class="matrixrep"></td>
+            <td class="matrixrep">Std</td>
+            <td class="matrixrep"><a href="../matrep/L52G1-Zr30B0.html">Details</a></td>
 	  </tr>
       {% endfor %}
 	</table>	
 	{% endif %}	
+	
+	{% if isoGroup.modularReps %}
+	<h3>Modular representations </h3>
+	<table width="70%" cellspacing="2">
+	  <tr>
+            <th class="matrixrep" style="width: 15%;">Char</th>
+            <th class="matrixrep" style="width: 20%;">Ring</th>
+            <th class="matrixrep" style="width: 15%;">
+            Dimension</th>
+            <th class="matrixrep" style="width: 10%;">ID</th>
+            <th class="matrixrep" style="width: 15%;">
+            Generators</th>
+            <th class="matrixrep" style="width: 10%;">Link</th>
+	  </tr>
+	  {% for modularRep in isoGroup.modularReps %}
+	  <tr>
+            <td class="matrixrep">{{ modularRep.name }}</td>
+            <td class="matrixrep">{{ modularRep.generators }}</td>
+            <td class="matrixrep">5</td>
+            <td class="matrixrep">a</td>
+            <td class="matrixrep">Std</td>
+            <td class="matrixrep"><a href="../matrep/L52G1-f2r5aB0.html">Details</a></td>
+	  </tr>
+      {% endfor %}
+	</table>	
+	{% endif %}	
+	
 	{% endfor %}
+    </div>
   </body>
 </html>

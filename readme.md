@@ -18,3 +18,8 @@ Deployed site at: https://chrisparker.github.io/JekyllTest/
 2. Follow the instructions at https://jekyllrb.com/docs/ to get jekyll running on your operating system. For windows, use this page: https://jekyllrb.com/docs/installation/windows/
 3. Navigate to the `docs` folder within the cloned repository, and run the console command `jekyll build`. 
 4. Browse to `http://localhost:4000`.
+
+## TODO on samples
+
+- How to convert L2(5) into L<sub>2</sub>(5) [Both for simpleGroup and isoGroup]
+- Assume that if there are no representations of a given type, neither the title nor table exist.
