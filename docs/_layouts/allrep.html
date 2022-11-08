@@ -86,10 +86,10 @@
 	  {% for modularRep in isoGroup.modularReps %}
 	  {% for modularRepBasis in modularRep.bases %}
 	  <tr>
-            <td class="matrixrep">char0Rep["char"]</td>
-            <td class="matrixrep">char0Rep["ring"]</td>
-            <td class="matrixrep">char0Rep["dimension"]</td>
-            <td class="matrixrep">char0Rep["id"]</td>
+            <td class="matrixrep">modularRep["char"]</td>
+            <td class="matrixrep">modularRep["ring"]</td>
+            <td class="matrixrep">modularRep["dimension"]</td>
+            <td class="matrixrep">modularRep["id"]</td>
 			
 	        {% if modularRep.generators == "G1" %}
             <td class="permrep">Std</td>
