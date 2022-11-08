@@ -28,24 +28,24 @@ print("Created _data folder. Writing theta.json to output.")
 with open('docs/_data/theta.json', 'w') as f:
     json.dump(theta, f)
 
-print("theta.json written. Creating allreps folder")
+print("theta.json written. Creating allrep folder")
 
-os.mkdir("docs/_allreps")
+os.mkdir("docs/_allrep")
 
-print("allreps folder created. Writing allreps")
+print("allrep folder created. Writing allreps")
 
 for simpleGroup in theta["caboodle"]:
-  with open('docs/_allreps/' + simpleGroup["name"] + '.md', 'w') as f:
+  with open('docs/_allrep/' + simpleGroup["name"] + '.md', 'w') as f:
     f.write("---\r\n")
     f.write("data: " + json.dumps(simpleGroup) + '\r\n')
-    f.write("layout: allreps\r\n")
+    f.write("layout: allrep\r\n")
     f.write("---\r\n")    
 
 print("allreps written. Creating permreps folder")
 
-os.mkdir("docs/_permreps")
+os.mkdir("docs/_permrep")
 
-print("permreps folder created. Writing permreps")
+print("permrep folder created. Writing permreps")
 
 for simpleGroup in theta["caboodle"]:
   groupName = simpleGroup["name"]
@@ -53,12 +53,32 @@ for simpleGroup in theta["caboodle"]:
   for isoGroup in simpleGroup.get("isoGroups", []):
     for permRep in isoGroup.get("permReps", []):
       for basis in permRep.get("bases", []):
-        with open('docs/_permreps/' + permRep["name"] + basis["name"] +'.json', 'w') as f:
+        with open('docs/_permrep/' + permRep["name"] + basis["name"] +'.json', 'w') as f:
           f.write("---\r\n")
           f.write("permrep: " + json.dumps(permRep) + '\r\n')
           f.write("basis: " + json.dumps(basis) + '\r\n')
           f.write("simplegroup: " + json.dumps(simpleGroup) + '\r\n')
-          f.write("layout: permreps\r\n")
+          f.write("layout: permrep\r\n")
           f.write("---\r\n")    
         
-print("permreps written")
+print("permrep written. Creating char0rep folder")
+
+os.mkdir("docs/_char0rep")
+
+print("char0rep folder created. Writing char0reps")
+
+for simpleGroup in theta["caboodle"]:
+  groupName = simpleGroup["name"]
+  batch = simpleGroup["batch"]
+  for isoGroup in simpleGroup.get("isoGroups", []):
+    for char0Rep in isoGroup.get("char0Reps", []):
+      for basis in char0Rep.get("bases", []):
+        with open('docs/_char0rep/' + char0Rep["name"] + basis["name"] +'.json', 'w') as f:
+          f.write("---\r\n")
+          f.write("char0rep: " + json.dumps(char0Rep) + '\r\n')
+          f.write("basis: " + json.dumps(basis) + '\r\n')
+          f.write("simplegroup: " + json.dumps(simpleGroup) + '\r\n')
+          f.write("layout: char0Rep\r\n")
+          f.write("---\r\n")    
+               
+print("char0reps written.")
