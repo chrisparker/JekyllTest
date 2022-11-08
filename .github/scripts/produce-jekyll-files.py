@@ -53,7 +53,7 @@ for simpleGroup in theta["caboodle"]:
   for isoGroup in simpleGroup.get("isoGroups", []):
     for permRep in isoGroup.get("permReps", []):
       for basis in permRep.get("bases", []):
-        with open('docs/_permrep/' + permRep["name"] + basis["name"] +'.json', 'w') as f:
+        with open('docs/_permrep/' + permRep["name"] + basis["name"] +'.md', 'w') as f:
           f.write("---\r\n")
           f.write("permrep: " + json.dumps(permRep) + '\r\n')
           f.write("basis: " + json.dumps(basis) + '\r\n')
@@ -73,7 +73,7 @@ for simpleGroup in theta["caboodle"]:
   for isoGroup in simpleGroup.get("isoGroups", []):
     for char0Rep in isoGroup.get("char0Reps", []):
       for basis in char0Rep.get("bases", []):
-        with open('docs/_char0rep/' + char0Rep["name"] + basis["name"] +'.json', 'w') as f:
+        with open('docs/_char0rep/' + char0Rep["name"] + basis["name"] +'.md', 'w') as f:
           f.write("---\r\n")
           f.write("char0rep: " + json.dumps(char0Rep) + '\r\n')
           f.write("basis: " + json.dumps(basis) + '\r\n')
