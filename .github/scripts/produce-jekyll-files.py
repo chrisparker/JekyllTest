@@ -81,4 +81,24 @@ for simpleGroup in theta["caboodle"]:
           f.write("layout: char0Rep\r\n")
           f.write("---\r\n")    
                
-print("char0reps written.")
+print("char0reps written. Creating matrep folder")
+
+os.mkdir("docs/_matrep")
+
+print("matrep folder created. Writing matreps")
+
+for simpleGroup in theta["caboodle"]:
+  groupName = simpleGroup["name"]
+  batch = simpleGroup["batch"]
+  for isoGroup in simpleGroup.get("isoGroups", []):
+    for modularRep in isoGroup.get("modularReps", []):
+      for basis in modularRep.get("bases", []):
+        with open('docs/_matrep/' + modularRep["name"] + basis["name"] +'.md', 'w') as f:
+          f.write("---\r\n")
+          f.write("modularRep: " + json.dumps(modularRep) + '\r\n')
+          f.write("basis: " + json.dumps(basis) + '\r\n')
+          f.write("simplegroup: " + json.dumps(simpleGroup) + '\r\n')
+          f.write("layout: matrep\r\n")
+          f.write("---\r\n")    
+               
+print("matreps written.")

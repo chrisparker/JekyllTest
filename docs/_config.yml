@@ -4,5 +4,6 @@ collections:
   permrep:
     output: true
   char0rep:
+    output: true  
+  matrep:
     output: true
-  
