@@ -52,9 +52,13 @@ for simpleGroup in theta["caboodle"]:
   batch = simpleGroup["batch"]
   for isoGroup in simpleGroup.get("isoGroups", []):
     for permRep in isoGroup.get("permReps", []):
-      with open('docs/_permreps/' + permRep["name"] + '.json', 'w') as f:
-        f.write("---")
-        json.dump(permRep, f) 
-        f.write("---")    
+      for basis in permRep.get("bases", []):
+        with open('docs/_permreps/' + permRep["name"] + basis["name"] +'.json', 'w') as f:
+          f.write("---\r\n")
+          f.write("permrep: " + json.dumps(permRep) + '\r\n')
+          f.write("basis: " + json.dumps(basis) + '\r\n')
+          f.write("simplegroup: " + json.dumps(simpleGroup) + '\r\n')
+          f.write("layout: permreps\r\n")
+          f.write("---\r\n")    
         
 print("permreps written")
