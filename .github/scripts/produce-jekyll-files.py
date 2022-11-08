@@ -30,17 +30,20 @@ with open('docs/_data/theta.json', 'w') as f:
 
 print("theta.json written. Creating allreps folder")
 
-os.mkdir("docs/_data/allreps")
+os.mkdir("docs/_allreps")
 
 print("allreps folder created. Writing allreps")
 
 for simpleGroup in theta["caboodle"]:
-  with open('docs/_data/allreps/' + simpleGroup["name"] + '.json', 'w') as f:
-    json.dump(simpleGroup, f)      
+  with open('docs/_allreps/' + simpleGroup["name"] + '.md', 'w') as f:
+    f.write("---\r\n")
+    f.write("data: " + json.dumps(simpleGroup) + '\r\n')
+    f.write("layout: allreps\r\n")
+    f.write("---\r\n")    
 
 print("allreps written. Creating permreps folder")
 
-os.mkdir("docs/_data/permreps")
+os.mkdir("docs/_permreps")
 
 print("permreps folder created. Writing permreps")
 
@@ -49,7 +52,9 @@ for simpleGroup in theta["caboodle"]:
   batch = simpleGroup["batch"]
   for isoGroup in simpleGroup.get("isoGroups", []):
     for permRep in isoGroup.get("permReps", []):
-      with open('docs/_data/permreps/' + permRep["name"] + '.json', 'w') as f:
-        json.dump(permRep, f)
+      with open('docs/_permreps/' + permRep["name"] + '.json', 'w') as f:
+        f.write("---")
+        json.dump(permRep, f) 
+        f.write("---")    
         
 print("permreps written")
