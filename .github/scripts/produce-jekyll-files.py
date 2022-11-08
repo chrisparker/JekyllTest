@@ -55,9 +55,9 @@ for simpleGroup in theta["caboodle"]:
       for basis in permRep.get("bases", []):
         with open('docs/_permrep/' + permRep["name"] + basis["name"] +'.md', 'w') as f:
           f.write("---\r\n")
-          f.write("permrep: " + json.dumps(permRep) + '\r\n')
+          f.write("permRep: " + json.dumps(permRep) + '\r\n')
           f.write("basis: " + json.dumps(basis) + '\r\n')
-          f.write("simplegroup: " + json.dumps(simpleGroup) + '\r\n')
+          f.write("simpleGroup: " + json.dumps(simpleGroup) + '\r\n')
           f.write("layout: permrep\r\n")
           f.write("---\r\n")    
         
@@ -75,9 +75,9 @@ for simpleGroup in theta["caboodle"]:
       for basis in char0Rep.get("bases", []):
         with open('docs/_char0rep/' + char0Rep["name"] + basis["name"] +'.md', 'w') as f:
           f.write("---\r\n")
-          f.write("char0rep: " + json.dumps(char0Rep) + '\r\n')
+          f.write("char0Rep: " + json.dumps(char0Rep) + '\r\n')
           f.write("basis: " + json.dumps(basis) + '\r\n')
-          f.write("simplegroup: " + json.dumps(simpleGroup) + '\r\n')
+          f.write("simpleGroup: " + json.dumps(simpleGroup) + '\r\n')
           f.write("layout: char0Rep\r\n")
           f.write("---\r\n")    
                
@@ -97,7 +97,7 @@ for simpleGroup in theta["caboodle"]:
           f.write("---\r\n")
           f.write("modularRep: " + json.dumps(modularRep) + '\r\n')
           f.write("basis: " + json.dumps(basis) + '\r\n')
-          f.write("simplegroup: " + json.dumps(simpleGroup) + '\r\n')
+          f.write("simpleGroup: " + json.dumps(simpleGroup) + '\r\n')
           f.write("layout: matrep\r\n")
           f.write("---\r\n")    
                
