@@ -1,4 +1,6 @@
 collections:
   allreps:
     output: true
+  permreps:
+    output: true
   
