@@ -2,34 +2,36 @@
 ---
 
 <!DOCTYPE html>
+
 <head>
   <link rel="STYLESHEET" type="text/css" href="../css/atlas.css" />
   <title>ATLAS: simpleGroup["displayName"] &mdash; Matrix representation of rep["dimension"] over rep["ring"]</title>
 </head>
+
 <body>
   <div id="header">
-    <h1>A<small>TLAS</small>: simpleGroup["displayName"] &mdash; Matrix representation of dim rep["dimension"] over rep["ring"]</h1>
+    <h1>A<small>TLAS</small>: simpleGroup["displayName"] &mdash; Matrix representation of dim rep["dimension"] over
+      rep["ring"]</h1>
   </div>
   <div id="main">
     <h2>About this representation</h2>
     <table width="100%">
       <tr class="aboutrep">
-        <th class="aboutrep" style=
-        "width: 30%; text-align: right;">Group</th>
+        <th class="aboutrep" style="width: 30%; text-align: right;">Group</th>
         <td class="aboutrep">simpleGroup["displayName"]</td>
       </tr>
       <tr class="aboutrep">
         <th class="aboutrep" style="width: 30%; text-align: right;">Group generators</th>
-		
-		{% if page.rep.generators == "G1" %}
-		<td class="aboutrep">Standard generators</td>
-		{% else %}
-		<td class="aboutrep">Non-standard generators</td>
-		{% endif %}		
+
+        {% if page.rep.generators == "G1" %}
+        <td class="aboutrep">Standard generators</td>
+        {% else %}
+        <td class="aboutrep">Non-standard generators</td>
+        {% endif %}
       </tr>
       <tr class="aboutrep">
         <th class="aboutrep" style="text-align: right;">
-        Dimension</th>
+          Dimension</th>
         <td class="aboutrep">rep["dimension"]</td>
       </tr>
       <tr class="aboutrep">
@@ -38,40 +40,53 @@
       </tr>
       <tr class="aboutrep">
         <th class="aboutrep" style="text-align: right;">
-        Characteristic</th>
+          Characteristic</th>
         <td class="aboutrep">rep["char"]</td>
       </tr>
     </table>
     <hr />
     <h2>Download</h2>
     <p>This representation is available in the following
-    formats:</p>
-    <table cellspacing="5" width="50%">	
-		{% for format in page.basis.formats %}
-        <tr>
-	    {% if format.name == "mtx" %}
+      formats:</p>
+    <table cellspacing="5" width="50%">
+      {% for format in page.basis.formats %}
+      <tr>
+        {% if format.name == "mtx" %}
         <td style="width: 10em;">MeatAxe</td>
-        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.rep.name }}{{ page.basis.name }}.m1"><b>a</b></a></td>
-        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.rep.name }}{{ page.basis.name }}.m2"><b>b</b></a></td>
+        <td style="width: 2em;"><a
+            href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.rep.name }}{{ page.basis.name }}.m1"><b>a</b></a>
+        </td>
+        <td style="width: 2em;"><a
+            href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.rep.name }}{{ page.basis.name }}.m2"><b>b</b></a>
+        </td>
         {% elsif format.name == "gap" %}
         <td style="width: 10em;">Gap</td>
-        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.rep.name }}{{ page.basis.name }}.g1"><b>a</b></a></td>
-        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.rep.name }}{{ page.basis.name }}.g2"><b>b</b></a></td>
+        <td style="width: 2em;"><a
+            href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.rep.name }}{{ page.basis.name }}.g1"><b>a</b></a>
+        </td>
+        <td style="width: 2em;"><a
+            href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.rep.name }}{{ page.basis.name }}.g2"><b>b</b></a>
+        </td>
         {% elsif format.name == "gap0" %}
         <td style="width: 10em;">Gap0</td>
-        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.rep.name }}{{ page.basis.name }}.g"><b>a, b</b></a></td>
+        <td style="width: 2em;"><a
+            href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.rep.name }}{{ page.basis.name }}.g"><b>a,
+              b</b></a></td>
         {% elsif format.name == "mag" %}
-        <td style="width: 10em;">Magma</td>	
-        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.rep.name }}{{ page.basis.name }}.M"><b>a, b</b></a></td>
+        <td style="width: 10em;">Magma</td>
+        <td style="width: 2em;"><a
+            href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.rep.name }}{{ page.basis.name }}.M"><b>a,
+              b</b></a></td>
         {% elsif format.name == "bin" %}
-        <td style="width: 10em;">Binary</td>	
-		{% else %}
-        <td style="width: 10em;">{{ format.name }}</td>		
-	    {% endif %}		  	  
-        </tr>
-		{% endfor %}
+        <td style="width: 10em;">Binary</td>
+        {% else %}
+        <td style="width: 10em;">{{ format.name }}</td>
+        {% endif %}
+      </tr>
+      {% endfor %}
     </table>
     <hr />
   </div>
 </body>
+
 </html>

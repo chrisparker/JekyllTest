@@ -2,109 +2,113 @@
 ---
 
 <html lang="en">
-  <head>
-    <link rel="STYLESHEET" type="text/css" href="../css/atlas.css" />
-    <title>ATLAS: Representations of {{ page.data.name }}</title>
-  </head>
-  <body>
-    <div id="header">
-      <h1>A<small>TLAS</small>: Representations of {{ page.data.name }}</h1>
-    </div>
-    <div id="main">
-	{% for isoGroup in page.data.isoGroups %}
-       <h2>Representations of {{ isoGroup.name }}</h2>
-  
-	{% if isoGroup.permReps %}
-	<h3>Permutation representations:</h3>
-	<table width="70%" cellspacing="2">
-	  <tr>
-            <th class="permrep" style="width: 30%;">Number of points</th>
-            <th class="permrep" style="width: 20%;">ID</th>
-            <th class="permrep" style="width: 10%;">Generators</th>
-            <th class="permrep" style="width: 10%;">Link</th>
-          </tr>
-	  {% for permRep in isoGroup.permReps %}
-	  {% for permRepBasis in permRep.bases %}
-	  <tr>
-            <td class="permrep">permrep["points"]</td>
-            <td class="permrep">permrep["id"]</td>
-			
-	        {% if permRep.generators == "G1" %}
-            <td class="permrep">Std</td>
-			{% else %}
-            <td class="permrep">Non-std</td>
-	        {% endif %}				
-			
-            <td class="permrep"><a href="../permrep/{{ permRep.name }}{{ permRepBasis.name }}.html">Details</a></td>
-          </tr>
-      {% endfor %}
-      {% endfor %}
-	</table>
-	{% endif %}	
-    
-	{% if isoGroup.char0Reps %}
-	<h3>Characteristic zero representations</h3>
-    <table width="70%" cellspacing="2">
-	  <tr>
-            <th class="matrixrep" style="width: 20%;">Ring</th>
-            <th class="matrixrep" style="width: 15%;">Dimension</th>
-            <th class="matrixrep" style="width: 10%;">ID</th>
-            <th class="matrixrep" style="width: 15%;">Generators</th>
-            <th class="matrixrep" style="width: 10%;">Link</th>
-	  </tr>
-	  {% for char0Rep in isoGroup.char0Reps %}
-	  {% for char0RepBasis in char0Rep.bases %}
-	  <tr>
-            <td class="matrixrep">char0Rep["ring"]</td>
-            <td class="matrixrep">char0Rep["dimension"]</td>
-            <td class="matrixrep">char0Rep["id"]</td>
-			
-	        {% if char0Rep.generators == "G1" %}
-            <td class="permrep">Std</td>
-			{% else %}
-            <td class="permrep">Non-std</td>
-	        {% endif %}				
-			
-            <td class="matrixrep"><a href="../matrep/{{ char0Rep.name }}{{ char0RepBasis.name }}.html">Details</a></td>
-	  </tr>
-      {% endfor %}
-      {% endfor %}
-	</table>	
-	{% endif %}	
-	
-	{% if isoGroup.modularReps %}
-	<h3>Modular representations </h3>
-	<table width="70%" cellspacing="2">
-	  <tr>
-            <th class="matrixrep" style="width: 15%;">Char</th>
-            <th class="matrixrep" style="width: 20%;">Ring</th>
-            <th class="matrixrep" style="width: 15%;">Dimension</th>
-            <th class="matrixrep" style="width: 10%;">ID</th>
-            <th class="matrixrep" style="width: 15%;">Generators</th>
-            <th class="matrixrep" style="width: 10%;">Link</th>
-	  </tr>
-	  {% for modularRep in isoGroup.modularReps %}
-	  {% for modularRepBasis in modularRep.bases %}
-	  <tr>
-            <td class="matrixrep">modularRep["char"]</td>
-            <td class="matrixrep">modularRep["ring"]</td>
-            <td class="matrixrep">modularRep["dimension"]</td>
-            <td class="matrixrep">modularRep["id"]</td>
-			
-	        {% if modularRep.generators == "G1" %}
-            <td class="permrep">Std</td>
-			{% else %}
-            <td class="permrep">Non-std</td>
-	        {% endif %}				
-			
-            <td class="matrixrep"><a href="../matrep/{{ modularRep.name }}{{ modularRepBasis.name }}.html">Details</a></td>
-	  </tr>
-      {% endfor %}
-      {% endfor %}
-	</table>	
-	{% endif %}	
-	
-	{% endfor %}
-    </div>
-  </body>
+
+<head>
+	<link rel="STYLESHEET" type="text/css" href="../css/atlas.css" />
+	<title>ATLAS: Representations of {{ page.data.name }}</title>
+</head>
+
+<body>
+	<div id="header">
+		<h1>A<small>TLAS</small>: Representations of {{ page.data.name }}</h1>
+	</div>
+	<div id="main">
+		{% assign sortedIsoGroups = page.data.isoGroups | sort:'displaySortOrder' %}
+		{% for isoGroup in sortedIsoGroups %}
+		<h2>Representations of {{ isoGroup.name }}</h2>
+
+		{% if isoGroup.permReps %}
+		<h3>Permutation representations:</h3>
+		<table width="70%" cellspacing="2">
+			<tr>
+				<th class="permrep" style="width: 30%;">Number of points</th>
+				<th class="permrep" style="width: 20%;">ID</th>
+				<th class="permrep" style="width: 10%;">Generators</th>
+				<th class="permrep" style="width: 10%;">Link</th>
+			</tr>
+			{% for permRep in isoGroup.permReps %}
+			{% for permRepBasis in permRep.bases %}
+			<tr>
+				<td class="permrep">permrep["points"]</td>
+				<td class="permrep">permrep["id"]</td>
+				{% if permRep.generators == "G1" %}
+				<td class="permrep">Std</td>
+				{% else %}
+				<td class="permrep">Non-std</td>
+				{% endif %}
+				<td class="permrep"><a href="../permrep/{{ permRep.name }}{{ permRepBasis.name }}.html">Details</a></td>
+			</tr>
+			{% endfor %}
+			{% endfor %}
+		</table>
+		{% endif %}
+
+		{% if isoGroup.char0Reps %}
+		<h3>Characteristic zero representations</h3>
+		<table width="70%" cellspacing="2">
+			<tr>
+				<th class="matrixrep" style="width: 20%;">Ring</th>
+				<th class="matrixrep" style="width: 15%;">Dimension</th>
+				<th class="matrixrep" style="width: 10%;">ID</th>
+				<th class="matrixrep" style="width: 15%;">Generators</th>
+				<th class="matrixrep" style="width: 10%;">Link</th>
+			</tr>
+			{% for char0Rep in isoGroup.char0Reps %}
+			{% for char0RepBasis in char0Rep.bases %}
+			<tr>
+				<td class="matrixrep">char0Rep["ring"]</td>
+				<td class="matrixrep">char0Rep["dimension"]</td>
+				<td class="matrixrep">char0Rep["id"]</td>
+
+				{% if char0Rep.generators == "G1" %}
+				<td class="permrep">Std</td>
+				{% else %}
+				<td class="permrep">Non-std</td>
+				{% endif %}
+
+				<td class="matrixrep"><a href="../matrep/{{ char0Rep.name }}{{ char0RepBasis.name }}.html">Details</a>
+				</td>
+			</tr>
+			{% endfor %}
+			{% endfor %}
+		</table>
+		{% endif %}
+
+		{% if isoGroup.modularReps %}
+		<h3>Modular representations </h3>
+		<table width="70%" cellspacing="2">
+			<tr>
+				<th class="matrixrep" style="width: 15%;">Char</th>
+				<th class="matrixrep" style="width: 20%;">Ring</th>
+				<th class="matrixrep" style="width: 15%;">Dimension</th>
+				<th class="matrixrep" style="width: 10%;">ID</th>
+				<th class="matrixrep" style="width: 15%;">Generators</th>
+				<th class="matrixrep" style="width: 10%;">Link</th>
+			</tr>
+			{% for modularRep in isoGroup.modularReps %}
+			{% for modularRepBasis in modularRep.bases %}
+			<tr>
+				<td class="matrixrep">modularRep["char"]</td>
+				<td class="matrixrep">modularRep["ring"]</td>
+				<td class="matrixrep">modularRep["dimension"]</td>
+				<td class="matrixrep">modularRep["id"]</td>
+
+				{% if modularRep.generators == "G1" %}
+				<td class="permrep">Std</td>
+				{% else %}
+				<td class="permrep">Non-std</td>
+				{% endif %}
+
+				<td class="matrixrep"><a
+						href="../matrep/{{ modularRep.name }}{{ modularRepBasis.name }}.html">Details</a></td>
+			</tr>
+			{% endfor %}
+			{% endfor %}
+		</table>
+		{% endif %}
+
+		{% endfor %}
+	</div>
+</body>
+
 </html>
