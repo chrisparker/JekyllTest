@@ -3,4 +3,6 @@ collections:
     output: true
   permrep:
     output: true
+  char0rep:
+    output: true
   
