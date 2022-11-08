@@ -21,7 +21,12 @@
       <tr class="aboutrep">
         <th class="aboutrep" style=
         "width: 30%; text-align: right;">Group generators</th>
-        <td class="aboutrep">Standard generators</td>
+		
+	        {% if page.char0rep.generators == "G1" %}
+            <td class="aboutrep">Standard generators</td>
+			{% else %}
+            <td class="aboutrep">Non-standard generators</td>
+	        {% endif %}		
       </tr>
       <tr class="aboutrep">
         <th class="aboutrep" style="text-align: right;">
@@ -47,18 +52,18 @@
         <tr>
 	    {% if format.name == "mtx" %}
         <td style="width: 10em;">MeatAxe</td>
-        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ simpleGroup.batch }}/{{ simpleGroup.name }}/{{ format.name }}/{{ char0Rep.name }}{{ basis.name }}.m1"><b>a</b></a></td>
-        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ simpleGroup.batch }}/{{ simpleGroup.name }}/{{ format.name }}/{{ char0Rep.name }}{{ basis.name }}.m2"><b>b</b></a></td>
+        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.char0Rep.name }}{{ page.basis.name }}.m1"><b>a</b></a></td>
+        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.char0Rep.name }}{{ page.basis.name }}.m2"><b>b</b></a></td>
         {% elsif format.name == "gap" %}
         <td style="width: 10em;">Gap</td>
-        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ simpleGroup.batch }}/{{ simpleGroup.name }}/{{ format.name }}/{{ char0Rep.name }}{{ basis.name }}.g1"><b>a</b></a></td>
-        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ simpleGroup.batch }}/{{ simpleGroup.name }}/{{ format.name }}/{{ char0Rep.name }}{{ basis.name }}.g2"><b>b</b></a></td>
+        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.char0Rep.name }}{{ page.basis.name }}.g1"><b>a</b></a></td>
+        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.char0Rep.name }}{{ page.basis.name }}.g2"><b>b</b></a></td>
         {% elsif format.name == "gap0" %}
         <td style="width: 10em;">Gap0</td>
-        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ simpleGroup.batch }}/{{ simpleGroup.name }}/{{ format.name }}/{{ char0Rep.name }}{{ basis.name }}.g"><b>a, b</b></a></td>
+        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.char0Rep.name }}{{ page.basis.name }}.g"><b>a, b</b></a></td>
         {% elsif format.name == "mag" %}
         <td style="width: 10em;">Magma</td>	
-        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ simpleGroup.batch }}/{{ simpleGroup.name }}/{{ format.name }}/{{ char0Rep.name }}{{ basis.name }}.M"><b>a, b</b></a></td>
+        <td style="width: 2em;"><a href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.char0Rep.name }}{{ page.basis.name }}.M"><b>a, b</b></a></td>
         {% elsif format.name == "bin" %}
         <td style="width: 10em;">Binary</td>	
 		{% else %}
