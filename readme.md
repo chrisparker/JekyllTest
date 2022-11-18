@@ -26,4 +26,4 @@ Deployed site at: https://chrisparker.github.io/JekyllTest/
 
 ### Building on linux
 
-Open build.bat and perform equivalent linux-y things.
+Looks at the text in build.bat and perform equivalent linux-y commands in a shell of your choice.
