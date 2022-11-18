@@ -2,8 +2,6 @@ collections:
   allrep:
     output: true
   permrep:
-    output: true
-  char0rep:
-    output: true  
+    output: true 
   matrep:
     output: true
