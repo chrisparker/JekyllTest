@@ -5,12 +5,12 @@
 
 <head>
   <link rel="STYLESHEET" type="text/css" href="../css/atlas.css" />
-  <title>ATLAS: simpleGroup["displayName"] &mdash; Matrix representation of rep["dimension"] over rep["ring"]</title>
+  <title>ATLAS: {{ page.simpleGroup.displayName }} &mdash; Matrix representation of {{ page.rep.dimension }} over rep["ring"]/rep["field"]</title>
 </head>
 
 <body>
   <div id="header">
-    <h1>A<small>TLAS</small>: simpleGroup["displayName"] &mdash; Matrix representation of dim rep["dimension"] over
+    <h1>A<small>TLAS</small>: {{ page.simpleGroup.displayName }} &mdash; Matrix representation of dim {{ page.rep.dimension }} over
       rep["ring"]</h1>
   </div>
   <div id="main">
@@ -18,7 +18,7 @@
     <table width="100%">
       <tr class="aboutrep">
         <th class="aboutrep" style="width: 30%; text-align: right;">Group</th>
-        <td class="aboutrep">simpleGroup["displayName"]</td>
+        <td class="aboutrep">{{ page.simpleGroup.displayName }}</td>
       </tr>
       <tr class="aboutrep">
         <th class="aboutrep" style="width: 30%; text-align: right;">Group generators</th>
@@ -32,16 +32,16 @@
       <tr class="aboutrep">
         <th class="aboutrep" style="text-align: right;">
           Dimension</th>
-        <td class="aboutrep">rep["dimension"]</td>
+        <td class="aboutrep">{{ page.rep.dimension }}</td>
       </tr>
       <tr class="aboutrep">
         <th class="aboutrep" style="text-align: right;">Ring</th>
-        <td class="aboutrep">rep["ring"]</td>
+        <td class="aboutrep">rep["ring"]/rep["field"]</td>
       </tr>
       <tr class="aboutrep">
         <th class="aboutrep" style="text-align: right;">
           Characteristic</th>
-        <td class="aboutrep">rep["char"]</td>
+        <td class="aboutrep">{{ page.rep.characteristic }}</td>
       </tr>
     </table>
     <hr />
