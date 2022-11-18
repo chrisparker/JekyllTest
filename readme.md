@@ -14,8 +14,16 @@ Deployed site at: https://chrisparker.github.io/JekyllTest/
 
 ## Building and viewing the website locally
 
+### Pre-requisitves
+
 1. Download the contents of this repository.
 2. Follow the instructions at https://jekyllrb.com/docs/ to get jekyll running on your operating system. For windows, use this page: https://jekyllrb.com/docs/installation/windows/
-3. Run the command `gem install jekyll-datapage-generator`.
-4. Navigate to the `docs` folder within the cloned repository, and run the console command `jekyll build`. 
-5. Browse to `http://localhost:4000`.
+
+### Building on windows
+
+1. Run build.bat
+2. Go to /docs/_site/index.html
+
+### Building on linux
+
+Open build.bat and perform equivalent linux-y things.
