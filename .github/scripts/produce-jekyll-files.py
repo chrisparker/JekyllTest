@@ -19,7 +19,19 @@ print("theta.json read. Parsing as json")
 
 theta = json.loads(fileContent)
 
-print("Parsed theta.json successfully. Creating _data folder")
+print("Parsed theta.json successfully. Applying sorts to theta.")
+
+for simpleGroup in theta["caboodle"]:
+  for isoGroup in simpleGroup.get("isoGroups", []):
+    permReps = isoGroup.get("permReps", [])
+    permReps.sort(key=lambda x: int(x["points"]))
+    char0Reps = isoGroup.get("char0Reps", [])    
+    char0Reps.sort(key=lambda x: int(x["dimension"]))
+    modularReps = isoGroup.get("modularReps", [])    
+    modularReps.sort(key=lambda x: ((1000000*int(x["characteristic"])) + (1000*int(x["field"])) + (int(x["dimension"]))))
+    
+    
+print("Sorts applied successfully. Creating _data folder")
 
 os.mkdir("docs/_data")
 
