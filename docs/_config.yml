@@ -3,5 +3,7 @@ collections:
     output: true
   permrep:
     output: true 
-  matrep:
+  char0rep:
+    output: true
+  modularrep:
     output: true

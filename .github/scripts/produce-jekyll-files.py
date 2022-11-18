@@ -61,11 +61,11 @@ for simpleGroup in theta["caboodle"]:
           f.write("layout: permrep\r\n")
           f.write("---\r\n")    
         
-print("permrep written. Creating matrep folder")
+print("permrep written. Creating char0rep folder")
 
-os.mkdir("docs/_matrep")
+os.mkdir("docs/_char0rep")
 
-print("matrep folder created. Writing char0reps to matrep folder")
+print("char0rep folder created. Writing char0reps to char0rep folder")
 
 for simpleGroup in theta["caboodle"]:
   groupName = simpleGroup["name"]
@@ -73,15 +73,19 @@ for simpleGroup in theta["caboodle"]:
   for isoGroup in simpleGroup.get("isoGroups", []):
     for char0Rep in isoGroup.get("char0Reps", []):
       for basis in char0Rep.get("bases", []):
-        with open('docs/_matrep/' + char0Rep["name"] + basis["name"] +'.md', 'w') as f:
+        with open('docs/_char0rep/' + char0Rep["name"] + basis["name"] +'.md', 'w') as f:
           f.write("---\r\n")
-          f.write("rep: " + json.dumps(char0Rep) + '\r\n')
+          f.write("char0rep: " + json.dumps(char0Rep) + '\r\n')
           f.write("basis: " + json.dumps(basis) + '\r\n')
           f.write("simpleGroup: " + json.dumps(simpleGroup) + '\r\n')
-          f.write("layout: matrep\r\n")
+          f.write("layout: char0rep\r\n")
           f.write("---\r\n")    
        
-print("char0reps written. Writing modular reps to matrep folder")
+print("char0reps written. Creating modularrep folder")
+
+os.mkdir("docs/_modularrep")
+
+print("modularrep folder created. Writing modularreps to modularrep folder")
 
 for simpleGroup in theta["caboodle"]:
   groupName = simpleGroup["name"]
@@ -89,12 +93,12 @@ for simpleGroup in theta["caboodle"]:
   for isoGroup in simpleGroup.get("isoGroups", []):
     for modularRep in isoGroup.get("modularReps", []):
       for basis in modularRep.get("bases", []):
-        with open('docs/_matrep/' + modularRep["name"] + basis["name"] +'.md', 'w') as f:
+        with open('docs/_modularrep/' + modularRep["name"] + basis["name"] +'.md', 'w') as f:
           f.write("---\r\n")
-          f.write("rep: " + json.dumps(modularRep) + '\r\n')
+          f.write("modularrep: " + json.dumps(modularRep) + '\r\n')
           f.write("basis: " + json.dumps(basis) + '\r\n')
           f.write("simpleGroup: " + json.dumps(simpleGroup) + '\r\n')
-          f.write("layout: matrep\r\n")
+          f.write("layout: modularrep\r\n")
           f.write("---\r\n")    
                
 print("modular reps written.")
