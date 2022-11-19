@@ -30,7 +30,7 @@
 			{% for permRepBasis in permRep.bases %}
 			<tr>
 				<td class="permrep">{{ permRep.points }}</td>
-				<td class="permrep"></td>
+				<td class="permrep">{{ permRep.id })</td>
 				{% if permRep.generators == "G1" %}
 				<td class="permrep">Std</td>
 				{% else %}
@@ -58,7 +58,7 @@
 			<tr>
 				<td class="matrixrep">{{ char0Rep.ring }}</td>
 				<td class="matrixrep">{{ char0Rep.dimension }}</td>
-				<td class="matrixrep"></td>
+				<td class="matrixrep">{{ char0Rep.id })</td>
 
 				{% if char0Rep.generators == "G1" %}
 				<td class="permrep">Std</td>
@@ -91,7 +91,7 @@
 				<td class="matrixrep">{{ modularRep.characteristic }}</td>
 				<td class="matrixrep">{{ modularRep.field }}</td>
 				<td class="matrixrep">{{ modularRep.dimension }} </td>
-				<td class="matrixrep"></td>
+				<td class="matrixrep">{{ modularRep.id })</td>
 
 				{% if modularRep.generators == "G1" %}
 				<td class="permrep">Std</td>
