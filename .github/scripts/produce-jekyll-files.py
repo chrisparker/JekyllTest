@@ -24,12 +24,11 @@ print("Parsed theta.json successfully. Applying sorts to theta.")
 for simpleGroup in theta["caboodle"]:
   for isoGroup in simpleGroup.get("isoGroups", []):
     permReps = isoGroup.get("permReps", [])
-    permReps.sort(key=lambda x: int(x["points"]))
+    permReps.sort(key=lambda x: x["points"].zfill(8))
     char0Reps = isoGroup.get("char0Reps", [])    
-    char0Reps.sort(key=lambda x: int(x["dimension"]))
+    char0Reps.sort(key=lambda x: x["dimension"].zfill(8) + x["id"].zfill(4) + x["ring"].zfill(8))
     modularReps = isoGroup.get("modularReps", [])    
-    modularReps.sort(key=lambda x: ((1000000*int(x["characteristic"])) + (1000*int(x["field"])) + (int(x["dimension"]))))
-    
+    modularReps.sort(key=lambda x: x["characteristic"].zfill(8) + x["dimension"].zfill(8) + x["id"].zfill(4) + x["field"].zfill(8) )
     
 print("Sorts applied successfully. Creating _data folder")
 
