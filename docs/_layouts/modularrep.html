@@ -84,7 +84,14 @@
         <td style="width: 2em;"><a
             href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.modularrep.name }}{{ page.basis.name }}.b2"><b>b</b></a>
         </td>
-        {% else %}
+        {% elsif format.name == "zip" %}
+        <td style="width: 10em;">Zip</td>
+        <td style="width: 2em;"><a
+            href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.modularrep.name }}{{ page.basis.name }}.z1"><b>a</b></a>
+        </td>
+        <td style="width: 2em;"><a
+            href="https://www.atlasrep.org/Atlas/v32/{{ page.simpleGroup.batch }}/{{ page.simpleGroup.name }}/{{ format.name }}/{{ page.modularrep.name }}{{ page.basis.name }}.z2"><b>b</b></a>
+        </td>%}
         <td style="width: 10em;">{{ format.name }}</td>
         {% endif %}
       </tr>
