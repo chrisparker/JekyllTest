@@ -14,7 +14,7 @@ Deployed site at: https://chrisparker.github.io/JekyllTest/
 
 ## Building and viewing the website locally
 
-### Pre-requisitves
+### Pre-requisites
 
 1. Download the contents of this repository.
 2. Follow the instructions at https://jekyllrb.com/docs/ to get jekyll running on your operating system. For windows, use this page: https://jekyllrb.com/docs/installation/windows/
