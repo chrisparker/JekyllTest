@@ -69,6 +69,7 @@ for simpleGroup in theta["caboodle"]:
           f.write("permRep: " + json.dumps(permRep) + '\r\n')
           f.write("basis: " + json.dumps(basis) + '\r\n')
           f.write("simpleGroup: " + json.dumps(simpleGroup) + '\r\n')
+          f.write("isoGroup: " + json.dumps(isoGroup) + '\r\n')
           f.write("layout: permrep\r\n")
           f.write("---\r\n")    
         
